@@ -331,13 +331,13 @@ To be added
 ```
 
 **Repository:**
-- GitHub: https://github.com/ISJBTC/FOCTO
+- https://github.com/ISJBTC/FOCTO.git
 
 **Code Availability:**
 
 The source code supporting this study is publicly available via the Open Science Framework at:
 
-https://github.com/ISJBTC/FOCTO
+https://github.com/ISJBTC/FOCTO.git
 
 If you use this code in your research, please also cite the associated manuscript (citation will be added upon publication).
 
