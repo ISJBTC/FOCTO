@@ -4,14 +4,14 @@ Fractional-Order Cancer Treatment Optimization Model
 A computational model for simulating breast cancer treatment dynamics using
 fractional-order differential equations to capture memory effects in biological systems.
 
-Version: 1.0.0
-DOI: 
+Version: 1.0.1
+DOI: https://doi.org/10.5281/zenodo.18415875 
 Repository: https://github.com/ISJBTC/FOCTO.git
 """
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 __author__ = "Irshad Jamadar"
-__doi__ = ""
+__doi__ = "https://doi.org/10.5281/zenodo.18415875"
 
 import os
 import numpy as np
