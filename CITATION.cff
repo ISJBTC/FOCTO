@@ -1,8 +1,8 @@
-cff-version: 1.0.0
+cff-version: 1.0.1
 message: "If you use this software, please cite it as below."
 title: "Fractional-Order Cancer Treatment Optimization Model"
-version: "1.0.0"
-doi: ""
+version: "1.0.1"
+doi: "https://doi.org/10.5281/zenodo.18415875"
 date-released: "2026-01-29"
 authors:
   - given-names: "Irshad"
@@ -16,5 +16,5 @@ keywords:
   - "mathematical oncology"
 license: "MIT"
 repository-code: "https://github.com/ISJBTC/FOCTO.git"
-url: "https://github.com/ISJBTC/FOCTO.git"
+url: "https://doi.org/10.5281/zenodo.18415875"
 
