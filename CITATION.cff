@@ -1,9 +1,9 @@
-cff-version: 1.2.0
+cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
 title: "Fractional-Order Cancer Treatment Optimization Model"
-version: "1.0.3"
-doi: "https://doi.org/10.17605/OSF.IO/2ZXUE"
-date-released: "2026-01-28"
+version: "1.0.0"
+doi: ""
+date-released: "2026-01-29"
 authors:
   - given-names: "Irshad"
     family-names: "Jamadar"
@@ -15,6 +15,6 @@ keywords:
   - "treatment optimization"
   - "mathematical oncology"
 license: "MIT"
-repository-code: "https://github.com/ISJBTC/FOCTM"
-url: "https://doi.org/10.17605/OSF.IO/2ZXUE"
+repository-code: "https://github.com/ISJBTC/FOCO"
+url: ""
 
