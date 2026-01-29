@@ -1,4 +1,4 @@
-# FOCTM
+# FOCTO
 
 This repository contains the computational code for a fractional-order differential equation model of breast cancer treatment dynamics, incorporating tumor growth, immune response, drug pharmacokinetics, and treatment resistance.
 
