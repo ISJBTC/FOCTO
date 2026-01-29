@@ -327,7 +327,7 @@ If you use this code, please cite:
 
 **Software Citation:**
 ```
-To be added
+Jamadar, I. (2026). Fractional-Order Cancer Treatment Optimization Model (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.18415875
 ```
 
 **Repository:**
@@ -335,9 +335,9 @@ To be added
 
 **Code Availability:**
 
-The source code supporting this study is publicly available via the Open Science Framework at:
+The source code supporting this study is publicly available via ZENODO:
 
-https://github.com/ISJBTC/FOCTO.git
+https://doi.org/10.5281/zenodo.18415875
 
 If you use this code in your research, please also cite the associated manuscript (citation will be added upon publication).
 
