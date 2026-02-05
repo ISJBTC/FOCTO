@@ -1,0 +1,1161 @@
+Parameter,Category,Source_Type,Patient_Profile,Protocol,Max_Sensitivity,Efficacy_Sensitivity
+K,Biological - Growth,Literature,average,standard,0.02223001884124528,0.022077768272816132
+K,Biological - Growth,Literature,average,continuous,0.13050171156805832,0.12976279454822415
+K,Biological - Growth,Literature,average,adaptive,0.12659834098354672,0.12604272768679886
+K,Biological - Growth,Literature,average,immuno_combo,0.09319141805532888,0.09283023663822604
+K,Biological - Growth,Literature,average,hyperthermia,0.08842184980471889,0.08794594080454647
+K,Biological - Growth,Literature,young,standard,0.07837942751201314,0.07796124796665821
+K,Biological - Growth,Literature,young,continuous,0.08410694142994074,0.08356870042064213
+K,Biological - Growth,Literature,young,adaptive,0.38059092572994246,0.3789806900910573
+K,Biological - Growth,Literature,young,immuno_combo,0.07260780991837248,0.07230015709719873
+K,Biological - Growth,Literature,young,hyperthermia,0.04463839662672016,0.04437207366683339
+K,Biological - Growth,Literature,elderly,standard,0.08840013110779629,0.08790980733575775
+K,Biological - Growth,Literature,elderly,continuous,0.18882961864286582,0.18767311118436633
+K,Biological - Growth,Literature,elderly,adaptive,0.2370524085476405,0.23608035050452314
+K,Biological - Growth,Literature,elderly,immuno_combo,0.17201516206530762,0.17128200945721173
+K,Biological - Growth,Literature,elderly,hyperthermia,0.06593767695607405,0.06558295992500829
+K,Biological - Growth,Literature,compromised,standard,0.08050628011397612,0.08002981200106221
+K,Biological - Growth,Literature,compromised,continuous,0.23797385258250034,0.236484740332278
+K,Biological - Growth,Literature,compromised,adaptive,0.5919218202971676,0.5894737226520745
+K,Biological - Growth,Literature,compromised,immuno_combo,0.1882368285113552,0.18733481343720682
+K,Biological - Growth,Literature,compromised,hyperthermia,0.03828815965967946,0.0380941730441258
+lambda1,Biological - Growth,Experimental,average,standard,0.06687857477275916,0.06649023762554829
+lambda1,Biological - Growth,Experimental,average,continuous,0.17873015510553253,0.1776385492769692
+lambda1,Biological - Growth,Experimental,average,adaptive,0.1494862600228303,0.1488576426383099
+lambda1,Biological - Growth,Experimental,average,immuno_combo,0.0826975636903424,0.08233382707358086
+lambda1,Biological - Growth,Experimental,average,hyperthermia,0.15282587623709407,0.15195222100371672
+lambda1,Biological - Growth,Experimental,young,standard,0.11185620251397875,0.1112508276348548
+lambda1,Biological - Growth,Experimental,young,continuous,0.08522321342905406,0.08468757583114103
+lambda1,Biological - Growth,Experimental,young,adaptive,0.20512934954443723,0.20424857107132502
+lambda1,Biological - Growth,Experimental,young,immuno_combo,0.1568443154167965,0.15617959202637383
+lambda1,Biological - Growth,Experimental,young,hyperthermia,0.13650640914703957,0.13571757543971597
+lambda1,Biological - Growth,Experimental,elderly,standard,0.0334713089178632,0.03321872236488407
+lambda1,Biological - Growth,Experimental,elderly,continuous,0.14216903028101704,0.1412707975486009
+lambda1,Biological - Growth,Experimental,elderly,adaptive,0.40238820106234546,0.40072455995111955
+lambda1,Biological - Growth,Experimental,elderly,immuno_combo,0.11956861037359366,0.11907520764060145
+lambda1,Biological - Growth,Experimental,elderly,hyperthermia,0.05025932725922776,0.04996878483220169
+lambda1,Biological - Growth,Experimental,compromised,standard,0.06574687418267623,0.06530723299508301
+lambda1,Biological - Growth,Experimental,compromised,continuous,0.04130307810172014,0.04104132646390428
+lambda1,Biological - Growth,Experimental,compromised,adaptive,0.18362427664085962,0.18283326537052744
+lambda1,Biological - Growth,Experimental,compromised,immuno_combo,0.1041339788197451,0.10363672073866698
+lambda1,Biological - Growth,Experimental,compromised,hyperthermia,0.09989584019957412,0.09928004359162448
+lambda2,Biological - Growth,Experimental,average,standard,0.030164383116021765,0.030003426091425048
+lambda2,Biological - Growth,Experimental,average,continuous,0.06518258399189415,0.06479013842285195
+lambda2,Biological - Growth,Experimental,average,adaptive,0.345434701710691,0.34400942883649743
+lambda2,Biological - Growth,Experimental,average,immuno_combo,0.1385048282330817,0.1379220416134314
+lambda2,Biological - Growth,Experimental,average,hyperthermia,0.07836495063454121,0.07798031170372112
+lambda2,Biological - Growth,Experimental,young,standard,0.16848536841891984,0.167552629215117
+lambda2,Biological - Growth,Experimental,young,continuous,0.06233457431815044,0.061952263426579016
+lambda2,Biological - Growth,Experimental,young,adaptive,0.2213777558794972,0.2204809416210274
+lambda2,Biological - Growth,Experimental,young,immuno_combo,0.04709024871794682,0.046896816815618324
+lambda2,Biological - Growth,Experimental,young,hyperthermia,0.09464514071156027,0.0941725851132474
+lambda2,Biological - Growth,Experimental,elderly,standard,0.08315749586047506,0.0826492032742363
+lambda2,Biological - Growth,Experimental,elderly,continuous,0.059039294272579285,0.05867911968725174
+lambda2,Biological - Growth,Experimental,elderly,adaptive,0.3306393857322165,0.3291974308449926
+lambda2,Biological - Growth,Experimental,elderly,immuno_combo,0.08307212447060974,0.08272323592681141
+lambda2,Biological - Growth,Experimental,elderly,hyperthermia,0.1878265518430645,0.18675683644102697
+lambda2,Biological - Growth,Experimental,compromised,standard,0.18908728410862946,0.18796396898950926
+lambda2,Biological - Growth,Experimental,compromised,continuous,0.1696304848106168,0.16856137735840837
+lambda2,Biological - Growth,Experimental,compromised,adaptive,0.09792697247420037,0.0975030225371
+lambda2,Biological - Growth,Experimental,compromised,immuno_combo,0.0993041200689119,0.09883690051277305
+lambda2,Biological - Growth,Experimental,compromised,hyperthermia,0.12914972876717326,0.1283828891420797
+lambda_R1,Biological - Resistance,Literature,average,standard,0.12272429185953124,0.12192434547509588
+lambda_R1,Biological - Resistance,Literature,average,continuous,0.05950289854470617,0.05913919299010577
+lambda_R1,Biological - Resistance,Literature,average,adaptive,0.09904735819871098,0.09853598292757793
+lambda_R1,Biological - Resistance,Literature,average,immuno_combo,0.14623196570689276,0.14571961092406843
+lambda_R1,Biological - Resistance,Literature,average,hyperthermia,0.054747963280448085,0.054433767386682985
+lambda_R1,Biological - Resistance,Literature,young,standard,0.06952145294216053,0.06921928471104519
+lambda_R1,Biological - Resistance,Literature,young,continuous,0.1737217476573821,0.1727525973652192
+lambda_R1,Biological - Resistance,Literature,young,adaptive,0.06106994092523201,0.06080109719346831
+lambda_R1,Biological - Resistance,Literature,young,immuno_combo,0.14189583174567175,0.14131604488193752
+lambda_R1,Biological - Resistance,Literature,young,hyperthermia,0.07515962547028594,0.07477327084832983
+lambda_R1,Biological - Resistance,Literature,elderly,standard,0.04439512425175739,0.044164063301690794
+lambda_R1,Biological - Resistance,Literature,elderly,continuous,0.18109227682333628,0.179957301765145
+lambda_R1,Biological - Resistance,Literature,elderly,adaptive,0.2973865230460159,0.29611773019675186
+lambda_R1,Biological - Resistance,Literature,elderly,immuno_combo,0.08701980273531121,0.08674860800326144
+lambda_R1,Biological - Resistance,Literature,elderly,hyperthermia,0.03843492635971266,0.038064772939974664
+lambda_R1,Biological - Resistance,Literature,compromised,standard,0.1652044706682193,0.16423312459319497
+lambda_R1,Biological - Resistance,Literature,compromised,continuous,0.09860181508038168,0.09811971678418607
+lambda_R1,Biological - Resistance,Literature,compromised,adaptive,0.06681762872563206,0.06644088009286112
+lambda_R1,Biological - Resistance,Literature,compromised,immuno_combo,0.09772115928741022,0.09737225626705767
+lambda_R1,Biological - Resistance,Literature,compromised,hyperthermia,0.0359620292775909,0.035710267398778014
+lambda_R2,Biological - Resistance,Literature,average,standard,0.09140251750837126,0.09089981424786972
+lambda_R2,Biological - Resistance,Literature,average,continuous,0.1182820297473138,0.11754272328423238
+lambda_R2,Biological - Resistance,Literature,average,adaptive,0.27126956699123067,0.2701840037869869
+lambda_R2,Biological - Resistance,Literature,average,immuno_combo,0.08570118027091964,0.08533973049971354
+lambda_R2,Biological - Resistance,Literature,average,hyperthermia,0.06493809566817287,0.06438271709014862
+lambda_R2,Biological - Resistance,Literature,young,standard,0.1269087291146139,0.12623268416116026
+lambda_R2,Biological - Resistance,Literature,young,continuous,0.14578385240678957,0.14482133539181127
+lambda_R2,Biological - Resistance,Literature,young,adaptive,0.13928220283401105,0.138698085975528
+lambda_R2,Biological - Resistance,Literature,young,immuno_combo,0.05398772738741103,0.053755589379037294
+lambda_R2,Biological - Resistance,Literature,young,hyperthermia,0.2217461015419443,0.22048232527565098
+lambda_R2,Biological - Resistance,Literature,elderly,standard,0.05308176728754367,0.05276517811910736
+lambda_R2,Biological - Resistance,Literature,elderly,continuous,0.12174139931058336,0.12116254463961272
+lambda_R2,Biological - Resistance,Literature,elderly,adaptive,0.08658281868917052,0.08622220808659126
+lambda_R2,Biological - Resistance,Literature,elderly,immuno_combo,0.046192269990109294,0.04600127549709498
+lambda_R2,Biological - Resistance,Literature,elderly,hyperthermia,0.07317012275316712,0.07270602433199523
+lambda_R2,Biological - Resistance,Literature,compromised,standard,0.03577547157623811,0.03556817679643588
+lambda_R2,Biological - Resistance,Literature,compromised,continuous,0.1557140749567763,0.15464981621341622
+lambda_R2,Biological - Resistance,Literature,compromised,adaptive,0.3540316280822256,0.35259872210583365
+lambda_R2,Biological - Resistance,Literature,compromised,immuno_combo,0.04386013619062465,0.043560220003011574
+lambda_R2,Biological - Resistance,Literature,compromised,hyperthermia,0.0752521281383165,0.07481107407783051
+beta1,Biological - Immune,Experimental,average,standard,0.8370522668494861,0.8323657006110635
+beta1,Biological - Immune,Experimental,average,continuous,0.9058925631659338,0.900598698607225
+beta1,Biological - Immune,Experimental,average,adaptive,0.8986230397725824,0.8948121506558933
+beta1,Biological - Immune,Experimental,average,immuno_combo,0.988501973586095,0.9843733461388864
+beta1,Biological - Immune,Experimental,average,hyperthermia,0.850200970588223,0.8454270636452795
+beta1,Biological - Immune,Experimental,young,standard,0.84656283442193,0.8419688625251474
+beta1,Biological - Immune,Experimental,young,continuous,0.8428054366735934,0.8377303093271607
+beta1,Biological - Immune,Experimental,young,adaptive,0.9191307761799976,0.9154687033002599
+beta1,Biological - Immune,Experimental,young,immuno_combo,1.0252653118453086,1.0209216287179332
+beta1,Biological - Immune,Experimental,young,hyperthermia,0.8465045555460498,0.842031369465207
+beta1,Biological - Immune,Experimental,elderly,standard,0.7614732160849851,0.757169018258333
+beta1,Biological - Immune,Experimental,elderly,continuous,0.6406325125872191,0.6366215309943049
+beta1,Biological - Immune,Experimental,elderly,adaptive,0.922178141695517,0.9180408665441881
+beta1,Biological - Immune,Experimental,elderly,immuno_combo,0.9976865481067074,0.9933790620897903
+beta1,Biological - Immune,Experimental,elderly,hyperthermia,0.7689834307936243,0.7645386154870988
+beta1,Biological - Immune,Experimental,compromised,standard,0.8366368049427215,0.8314848407036781
+beta1,Biological - Immune,Experimental,compromised,continuous,0.6954056260708349,0.6910937504406858
+beta1,Biological - Immune,Experimental,compromised,adaptive,1.0049209147774196,1.0005344633874629
+beta1,Biological - Immune,Experimental,compromised,immuno_combo,0.9432053310877335,0.9388234367169987
+beta1,Biological - Immune,Experimental,compromised,hyperthermia,0.7989576881404525,0.7941660193175829
+beta2,Biological - Immune,Literature,average,standard,0.06096957143401414,0.06062462660165835
+beta2,Biological - Immune,Literature,average,continuous,0.0993295155476461,0.0987160198266284
+beta2,Biological - Immune,Literature,average,adaptive,0.2666778246978134,0.26559661707685717
+beta2,Biological - Immune,Literature,average,immuno_combo,0.20627071424560503,0.20538937117589623
+beta2,Biological - Immune,Literature,average,hyperthermia,0.06347236912018323,0.06306411943198056
+beta2,Biological - Immune,Literature,young,standard,0.05481662604977407,0.05455753306758248
+beta2,Biological - Immune,Literature,young,continuous,0.08195479413925191,0.08144970337589764
+beta2,Biological - Immune,Literature,young,adaptive,0.0994791819634467,0.09906676981637152
+beta2,Biological - Immune,Literature,young,immuno_combo,0.08854702364290536,0.0881750147699197
+beta2,Biological - Immune,Literature,young,hyperthermia,0.12384588791072587,0.12317799411359659
+beta2,Biological - Immune,Literature,elderly,standard,0.04884768286898752,0.04855662357614821
+beta2,Biological - Immune,Literature,elderly,continuous,0.287993377056734,0.2862003951206345
+beta2,Biological - Immune,Literature,elderly,adaptive,0.14337586040128156,0.14277552837632473
+beta2,Biological - Immune,Literature,elderly,immuno_combo,0.04140754530376707,0.041236318097129486
+beta2,Biological - Immune,Literature,elderly,hyperthermia,0.05259372449181139,0.05227168781594485
+beta2,Biological - Immune,Literature,compromised,standard,0.029361999815203665,0.029201435682752803
+beta2,Biological - Immune,Literature,compromised,continuous,0.11986254451722228,0.11912441654596855
+beta2,Biological - Immune,Literature,compromised,adaptive,0.2785861584311662,0.2773862145615468
+beta2,Biological - Immune,Literature,compromised,immuno_combo,0.09151882590498203,0.091073697745436
+beta2,Biological - Immune,Literature,compromised,hyperthermia,0.1403265644252576,0.13940237918330844
+phi1,Biological - Immune,Literature,average,standard,0.048114707771851895,0.04783098673451505
+phi1,Biological - Immune,Literature,average,continuous,0.20821180136435574,0.2069420959879239
+phi1,Biological - Immune,Literature,average,adaptive,0.401681112411732,0.3999046593759754
+phi1,Biological - Immune,Literature,average,immuno_combo,0.12830092874286758,0.1277646921205651
+phi1,Biological - Immune,Literature,average,hyperthermia,0.061058693511019946,0.06071688329424934
+phi1,Biological - Immune,Literature,young,standard,0.09291729532903625,0.09238399315801354
+phi1,Biological - Immune,Literature,young,continuous,0.12676771258851352,0.12602774700470665
+phi1,Biological - Immune,Literature,young,adaptive,0.047111612195488976,0.046916867340282005
+phi1,Biological - Immune,Literature,young,immuno_combo,0.07515696246062041,0.07483998165220361
+phi1,Biological - Immune,Literature,young,hyperthermia,0.15376694365649768,0.15293579879122893
+phi1,Biological - Immune,Literature,elderly,standard,0.10369154175905991,0.1030576724801975
+phi1,Biological - Immune,Literature,elderly,continuous,0.1084205298543752,0.10777822113860257
+phi1,Biological - Immune,Literature,elderly,adaptive,0.07869528706234283,0.07835938094493691
+phi1,Biological - Immune,Literature,elderly,immuno_combo,0.04513363237257172,0.044943388414509323
+phi1,Biological - Immune,Literature,elderly,hyperthermia,0.0819057790218361,0.08136243713529347
+phi1,Biological - Immune,Literature,compromised,standard,0.11890793758918773,0.11820186897778828
+phi1,Biological - Immune,Literature,compromised,continuous,0.1276243254775889,0.12685098665552824
+phi1,Biological - Immune,Literature,compromised,adaptive,0.1248664625080488,0.12433102152394912
+phi1,Biological - Immune,Literature,compromised,immuno_combo,0.11985447664434466,0.11927882992689018
+phi1,Biological - Immune,Literature,compromised,hyperthermia,0.08595010758545511,0.0854996087869636
+phi2,Biological - Immune,Literature,average,standard,0.07802825663522642,0.07758611391013256
+phi2,Biological - Immune,Literature,average,continuous,0.1701146562564975,0.16908979236162636
+phi2,Biological - Immune,Literature,average,adaptive,0.18432269573659582,0.183550532025199
+phi2,Biological - Immune,Literature,average,immuno_combo,0.07859727500108608,0.07826951429335896
+phi2,Biological - Immune,Literature,average,hyperthermia,0.11256775370647701,0.1119258418517027
+phi2,Biological - Immune,Literature,young,standard,0.05627697127293582,0.055950683445873714
+phi2,Biological - Immune,Literature,young,continuous,0.20011667779827116,0.19891412142865772
+phi2,Biological - Immune,Literature,young,adaptive,0.16440801038763128,0.16373636793283336
+phi2,Biological - Immune,Literature,young,immuno_combo,0.05135912445785283,0.05114832322683569
+phi2,Biological - Immune,Literature,young,hyperthermia,0.10538284690464472,0.10469857276052186
+phi2,Biological - Immune,Literature,elderly,standard,0.020866487822738245,0.02072980788350541
+phi2,Biological - Immune,Literature,elderly,continuous,0.11644255483334907,0.11568378124760398
+phi2,Biological - Immune,Literature,elderly,adaptive,0.27057199589370134,0.26939076090942116
+phi2,Biological - Immune,Literature,elderly,immuno_combo,0.050251834685888216,0.05004276285618555
+phi2,Biological - Immune,Literature,elderly,hyperthermia,0.2222748603097493,0.22098780379451122
+phi2,Biological - Immune,Literature,compromised,standard,0.10011698652140176,0.09953287654013637
+phi2,Biological - Immune,Literature,compromised,continuous,0.05268411018589875,0.05235047323793442
+phi2,Biological - Immune,Literature,compromised,adaptive,0.21018296995860883,0.2093194168540896
+phi2,Biological - Immune,Literature,compromised,immuno_combo,0.052251809486950004,0.052011699622118046
+phi2,Biological - Immune,Literature,compromised,hyperthermia,0.10792844603277668,0.10729531679157002
+phi3,Biological - Immune,Literature,average,standard,0.07807987312948002,0.0775724755372375
+phi3,Biological - Immune,Literature,average,continuous,0.2154192770872788,0.21414151172475376
+phi3,Biological - Immune,Literature,average,adaptive,0.24154885671086573,0.24055214420340346
+phi3,Biological - Immune,Literature,average,immuno_combo,0.07573270853846745,0.07541191947886568
+phi3,Biological - Immune,Literature,average,hyperthermia,0.05602664202915206,0.05569799649908723
+phi3,Biological - Immune,Literature,young,standard,0.1034313978316718,0.10284362114596278
+phi3,Biological - Immune,Literature,young,continuous,0.11196446097281887,0.11127050460101712
+phi3,Biological - Immune,Literature,young,adaptive,0.21821514468067474,0.2173393245326417
+phi3,Biological - Immune,Literature,young,immuno_combo,0.12973675664676854,0.1291841097620126
+phi3,Biological - Immune,Literature,young,hyperthermia,0.12546066795260374,0.12477954696370142
+phi3,Biological - Immune,Literature,elderly,standard,0.049723136298785955,0.04940297277922483
+phi3,Biological - Immune,Literature,elderly,continuous,0.1129393746949773,0.11224941304542287
+phi3,Biological - Immune,Literature,elderly,adaptive,0.09168490146852937,0.0913075352739904
+phi3,Biological - Immune,Literature,elderly,immuno_combo,0.09623941948195171,0.09583193790576272
+phi3,Biological - Immune,Literature,elderly,hyperthermia,0.1464880942170862,0.14561840519682764
+phi3,Biological - Immune,Literature,compromised,standard,0.10543009209441884,0.10475652361905086
+phi3,Biological - Immune,Literature,compromised,continuous,0.17249291316331344,0.17145103234767162
+phi3,Biological - Immune,Literature,compromised,adaptive,0.10656387040544384,0.10609387414518909
+phi3,Biological - Immune,Literature,compromised,immuno_combo,0.04116179710062606,0.04096159781544524
+phi3,Biological - Immune,Literature,compromised,hyperthermia,0.08923054805574218,0.08868538701987093
+delta_I,Biological - Immune,Literature,average,standard,0.08740123076159795,0.08683823270269021
+delta_I,Biological - Immune,Literature,average,continuous,0.12107916983127001,0.12032645926094881
+delta_I,Biological - Immune,Literature,average,adaptive,0.13779001734386465,0.13721623864659055
+delta_I,Biological - Immune,Literature,average,immuno_combo,0.22137314444382866,0.22044177043007007
+delta_I,Biological - Immune,Literature,average,hyperthermia,0.11817958674349283,0.11753069814961492
+delta_I,Biological - Immune,Literature,young,standard,0.06793517055177567,0.06756172661834126
+delta_I,Biological - Immune,Literature,young,continuous,0.07074201605022945,0.07032426174513709
+delta_I,Biological - Immune,Literature,young,adaptive,0.16229676700246054,0.16160009894637145
+delta_I,Biological - Immune,Literature,young,immuno_combo,0.12753692132785185,0.126997169522912
+delta_I,Biological - Immune,Literature,young,hyperthermia,0.1287635585380425,0.1280130192049843
+delta_I,Biological - Immune,Literature,elderly,standard,0.12669911039184154,0.12602986878177871
+delta_I,Biological - Immune,Literature,elderly,continuous,0.10370599938144534,0.10306620863854933
+delta_I,Biological - Immune,Literature,elderly,adaptive,0.10775963983164277,0.107295169625832
+delta_I,Biological - Immune,Literature,elderly,immuno_combo,0.09632123450201778,0.09591147528826972
+delta_I,Biological - Immune,Literature,elderly,hyperthermia,0.10529840981968955,0.10468797185230076
+delta_I,Biological - Immune,Literature,compromised,standard,0.0633342301241075,0.06296910462109667
+delta_I,Biological - Immune,Literature,compromised,continuous,0.0798541426961154,0.07936154597124265
+delta_I,Biological - Immune,Literature,compromised,adaptive,0.25536584965174536,0.254315289280296
+delta_I,Biological - Immune,Literature,compromised,immuno_combo,0.095824284827903,0.09536611722375397
+delta_I,Biological - Immune,Literature,compromised,hyperthermia,0.11863805007875887,0.11794566493572076
+immune_resist_factor1,Biological - Immune,Hypothetical,average,standard,0.062312240594326496,0.06185517600843652
+immune_resist_factor1,Biological - Immune,Hypothetical,average,continuous,0.10837448516042968,0.10770128637744095
+immune_resist_factor1,Biological - Immune,Hypothetical,average,adaptive,0.06683080511093942,0.0663354087115062
+immune_resist_factor1,Biological - Immune,Hypothetical,average,immuno_combo,0.08505510650929111,0.0846980970842042
+immune_resist_factor1,Biological - Immune,Hypothetical,average,hyperthermia,0.12198122806791797,0.12130100412531239
+immune_resist_factor1,Biological - Immune,Hypothetical,young,standard,0.07008008053618628,0.06978427737059724
+immune_resist_factor1,Biological - Immune,Hypothetical,young,continuous,0.13011675763684857,0.129460060566695
+immune_resist_factor1,Biological - Immune,Hypothetical,young,adaptive,0.13978905615810489,0.1392120963089911
+immune_resist_factor1,Biological - Immune,Hypothetical,young,immuno_combo,0.10247179286554033,0.10191039312314511
+immune_resist_factor1,Biological - Immune,Hypothetical,young,hyperthermia,0.14794660968898957,0.14698944115570678
+immune_resist_factor1,Biological - Immune,Hypothetical,elderly,standard,0.10975535574654857,0.10911752160838499
+immune_resist_factor1,Biological - Immune,Hypothetical,elderly,continuous,0.0568652739676105,0.05651186342980731
+immune_resist_factor1,Biological - Immune,Hypothetical,elderly,adaptive,0.3119023220807102,0.31085138816512364
+immune_resist_factor1,Biological - Immune,Hypothetical,elderly,immuno_combo,0.028992374551092107,0.028870921211078083
+immune_resist_factor1,Biological - Immune,Hypothetical,elderly,hyperthermia,0.04976511369310234,0.04933630284771612
+immune_resist_factor1,Biological - Immune,Hypothetical,compromised,standard,0.0784139640578194,0.07783149707532323
+immune_resist_factor1,Biological - Immune,Hypothetical,compromised,continuous,0.37438228867753726,0.3721051654216683
+immune_resist_factor1,Biological - Immune,Hypothetical,compromised,adaptive,0.1810896112389148,0.18022184842903566
+immune_resist_factor1,Biological - Immune,Hypothetical,compromised,immuno_combo,0.04773740398288483,0.04763000900551288
+immune_resist_factor1,Biological - Immune,Hypothetical,compromised,hyperthermia,0.0778326585436309,0.07748562613210597
+immune_resist_factor2,Biological - Immune,Hypothetical,average,standard,0.11581671496644065,0.11500549302800028
+immune_resist_factor2,Biological - Immune,Hypothetical,average,continuous,0.07920857612163862,0.07874664318893233
+immune_resist_factor2,Biological - Immune,Hypothetical,average,adaptive,0.019322626954410324,0.01923992169776355
+immune_resist_factor2,Biological - Immune,Hypothetical,average,immuno_combo,0.0706757144332098,0.07037959342399197
+immune_resist_factor2,Biological - Immune,Hypothetical,average,hyperthermia,0.11372268281580977,0.11313379944531063
+immune_resist_factor2,Biological - Immune,Hypothetical,young,standard,0.055007531986137254,0.05468807866929596
+immune_resist_factor2,Biological - Immune,Hypothetical,young,continuous,0.13446150001681595,0.13357733194944052
+immune_resist_factor2,Biological - Immune,Hypothetical,young,adaptive,0.14976668020736697,0.1491970109418266
+immune_resist_factor2,Biological - Immune,Hypothetical,young,immuno_combo,0.20766200099020587,0.20679048924464621
+immune_resist_factor2,Biological - Immune,Hypothetical,young,hyperthermia,0.16511815080922462,0.1641968863020397
+immune_resist_factor2,Biological - Immune,Hypothetical,elderly,standard,0.10662679392000544,0.10593724511133833
+immune_resist_factor2,Biological - Immune,Hypothetical,elderly,continuous,0.1490495387305454,0.14820272167245407
+immune_resist_factor2,Biological - Immune,Hypothetical,elderly,adaptive,0.2645934160052213,0.2633915637308381
+immune_resist_factor2,Biological - Immune,Hypothetical,elderly,immuno_combo,0.10087339847996461,0.10050076925518817
+immune_resist_factor2,Biological - Immune,Hypothetical,elderly,hyperthermia,0.05498959034331178,0.054717399205414116
+immune_resist_factor2,Biological - Immune,Hypothetical,compromised,standard,0.07095535741750422,0.07054628561294057
+immune_resist_factor2,Biological - Immune,Hypothetical,compromised,continuous,0.12315568024304749,0.12239418154790732
+immune_resist_factor2,Biological - Immune,Hypothetical,compromised,adaptive,0.16018192146860508,0.15952015391273405
+immune_resist_factor2,Biological - Immune,Hypothetical,compromised,immuno_combo,0.05849416340119672,0.058282873944282367
+immune_resist_factor2,Biological - Immune,Hypothetical,compromised,hyperthermia,0.029963809987886572,0.029781749850908555
+gamma,Biological - Metastasis,Literature,average,standard,0.09419869249225725,0.09357564454783801
+gamma,Biological - Metastasis,Literature,average,continuous,0.12390624832034902,0.12316899406843171
+gamma,Biological - Metastasis,Literature,average,adaptive,0.18440105282893451,0.18364223167177454
+gamma,Biological - Metastasis,Literature,average,immuno_combo,0.08047516976957175,0.0801365712777667
+gamma,Biological - Metastasis,Literature,average,hyperthermia,0.11058295183495459,0.109942024103558
+gamma,Biological - Metastasis,Literature,young,standard,0.04016713600927633,0.03996953316669429
+gamma,Biological - Metastasis,Literature,young,continuous,0.14944840493713896,0.1485606259655116
+gamma,Biological - Metastasis,Literature,young,adaptive,0.2915434354714692,0.2903471415073964
+gamma,Biological - Metastasis,Literature,young,immuno_combo,0.1358029979225503,0.1352334061554311
+gamma,Biological - Metastasis,Literature,young,hyperthermia,0.0897018717776659,0.08922057068159325
+gamma,Biological - Metastasis,Literature,elderly,standard,0.10807910019113029,0.1074543616513281
+gamma,Biological - Metastasis,Literature,elderly,continuous,0.12617325654733752,0.12541213132823037
+gamma,Biological - Metastasis,Literature,elderly,adaptive,0.2213686189271776,0.22045554322190464
+gamma,Biological - Metastasis,Literature,elderly,immuno_combo,0.15124430938640315,0.1506135682663161
+gamma,Biological - Metastasis,Literature,elderly,hyperthermia,0.03126369341889605,0.031076000015181182
+gamma,Biological - Metastasis,Literature,compromised,standard,0.11788484687633405,0.11718818843950418
+gamma,Biological - Metastasis,Literature,compromised,continuous,0.11887892928066285,0.11813013630249128
+gamma,Biological - Metastasis,Literature,compromised,adaptive,0.35266716465185804,0.35118305408684714
+gamma,Biological - Metastasis,Literature,compromised,immuno_combo,0.16694776517267249,0.16616339851291154
+gamma,Biological - Metastasis,Literature,compromised,hyperthermia,0.09920457374137152,0.09858589659528767
+delta_P,Biological - Metastasis,Literature,average,standard,0.10364618728583502,0.10312880720871656
+delta_P,Biological - Metastasis,Literature,average,continuous,0.09023243364785705,0.08967363835472282
+delta_P,Biological - Metastasis,Literature,average,adaptive,0.18620459615491086,0.18543139696681202
+delta_P,Biological - Metastasis,Literature,average,immuno_combo,0.08301414494782644,0.08266585155410491
+delta_P,Biological - Metastasis,Literature,average,hyperthermia,0.03408416109104124,0.03387973716702203
+delta_P,Biological - Metastasis,Literature,young,standard,0.11726612855008119,0.11660389623018408
+delta_P,Biological - Metastasis,Literature,young,continuous,0.10644704873127887,0.10580364730723828
+delta_P,Biological - Metastasis,Literature,young,adaptive,0.10471809350536168,0.10427058885600533
+delta_P,Biological - Metastasis,Literature,young,immuno_combo,0.049477589665908886,0.049272714062816594
+delta_P,Biological - Metastasis,Literature,young,hyperthermia,0.08934222818879721,0.08886571930048673
+delta_P,Biological - Metastasis,Literature,elderly,standard,0.11926864892948212,0.1186069528797741
+delta_P,Biological - Metastasis,Literature,elderly,continuous,0.15863775492080756,0.1576934014880596
+delta_P,Biological - Metastasis,Literature,elderly,adaptive,0.2309307468147279,0.22994048934732084
+delta_P,Biological - Metastasis,Literature,elderly,immuno_combo,0.06942727756907824,0.06913545400550308
+delta_P,Biological - Metastasis,Literature,elderly,hyperthermia,0.08491602543939585,0.08438420721339486
+delta_P,Biological - Metastasis,Literature,compromised,standard,0.04706908407899952,0.04680297153335841
+delta_P,Biological - Metastasis,Literature,compromised,continuous,0.10738792091385929,0.10673243794673405
+delta_P,Biological - Metastasis,Literature,compromised,adaptive,0.37254800971476054,0.370981429564314
+delta_P,Biological - Metastasis,Literature,compromised,immuno_combo,0.02543453972742587,0.02531046438080875
+delta_P,Biological - Metastasis,Literature,compromised,hyperthermia,0.04628009916512091,0.045969985526820294
+alpha_A,Biological - Angiogenesis,Literature,average,standard,0.10225830676737827,0.10168964177063027
+alpha_A,Biological - Angiogenesis,Literature,average,continuous,0.11679857701479253,0.1160795984983713
+alpha_A,Biological - Angiogenesis,Literature,average,adaptive,0.12420367357606592,0.12367273085178539
+alpha_A,Biological - Angiogenesis,Literature,average,immuno_combo,0.06865662196318238,0.06836830900548119
+alpha_A,Biological - Angiogenesis,Literature,average,hyperthermia,0.05562749797012079,0.055290324964554834
+alpha_A,Biological - Angiogenesis,Literature,young,standard,0.13094385401180922,0.13024278060542407
+alpha_A,Biological - Angiogenesis,Literature,young,continuous,0.11290580629125511,0.11221492319097404
+alpha_A,Biological - Angiogenesis,Literature,young,adaptive,0.13927066762245466,0.13869644455865007
+alpha_A,Biological - Angiogenesis,Literature,young,immuno_combo,0.1389921650113918,0.13840200631801874
+alpha_A,Biological - Angiogenesis,Literature,young,hyperthermia,0.09673668487802914,0.09621127628874222
+alpha_A,Biological - Angiogenesis,Literature,elderly,standard,0.1279304872072909,0.12716052639570774
+alpha_A,Biological - Angiogenesis,Literature,elderly,continuous,0.22020948791904343,0.21880479221682264
+alpha_A,Biological - Angiogenesis,Literature,elderly,adaptive,0.2021557575805738,0.20131027899857826
+alpha_A,Biological - Angiogenesis,Literature,elderly,immuno_combo,0.05094045368747385,0.05072879861953812
+alpha_A,Biological - Angiogenesis,Literature,elderly,hyperthermia,0.09222525504788712,0.0916955723762814
+alpha_A,Biological - Angiogenesis,Literature,compromised,standard,0.07711316512730373,0.07664597349572036
+alpha_A,Biological - Angiogenesis,Literature,compromised,continuous,0.09891977438239645,0.09830438856411815
+alpha_A,Biological - Angiogenesis,Literature,compromised,adaptive,0.27858941689338396,0.277427244990918
+alpha_A,Biological - Angiogenesis,Literature,compromised,immuno_combo,0.08604774943420296,0.08564689198951768
+alpha_A,Biological - Angiogenesis,Literature,compromised,hyperthermia,0.07374912281688982,0.07332463694549433
+delta_A,Biological - Angiogenesis,Literature,average,standard,0.02825618130322834,0.02807494248836961
+delta_A,Biological - Angiogenesis,Literature,average,continuous,0.16552359328469402,0.16452212629719265
+delta_A,Biological - Angiogenesis,Literature,average,adaptive,0.17888892379630134,0.17812169388445778
+delta_A,Biological - Angiogenesis,Literature,average,immuno_combo,0.09632562922899321,0.09592534462346908
+delta_A,Biological - Angiogenesis,Literature,average,hyperthermia,0.060091170601156235,0.059704693505815615
+delta_A,Biological - Angiogenesis,Literature,young,standard,0.030993636389247233,0.030847243497336693
+delta_A,Biological - Angiogenesis,Literature,young,continuous,0.13064664954374286,0.12985245116233055
+delta_A,Biological - Angiogenesis,Literature,young,adaptive,0.22686690809405893,0.2259239190993927
+delta_A,Biological - Angiogenesis,Literature,young,immuno_combo,0.03882620707665893,0.038658883525460305
+delta_A,Biological - Angiogenesis,Literature,young,hyperthermia,0.07900032520897292,0.07857493871678191
+delta_A,Biological - Angiogenesis,Literature,elderly,standard,0.08477484340173139,0.08428135170866755
+delta_A,Biological - Angiogenesis,Literature,elderly,continuous,0.13507590853035747,0.1342467197192944
+delta_A,Biological - Angiogenesis,Literature,elderly,adaptive,0.40343701909097884,0.4018089812409409
+delta_A,Biological - Angiogenesis,Literature,elderly,immuno_combo,0.047623234161550135,0.04742428474081153
+delta_A,Biological - Angiogenesis,Literature,elderly,hyperthermia,0.08525631813316982,0.08477932785713899
+delta_A,Biological - Angiogenesis,Literature,compromised,standard,0.1104906051228483,0.10982122665473343
+delta_A,Biological - Angiogenesis,Literature,compromised,continuous,0.11563655736824076,0.11495201511773902
+delta_A,Biological - Angiogenesis,Literature,compromised,adaptive,0.13698434944754018,0.1364005577997552
+delta_A,Biological - Angiogenesis,Literature,compromised,immuno_combo,0.0917254671413902,0.09130863525601664
+delta_A,Biological - Angiogenesis,Literature,compromised,hyperthermia,0.13119413911453703,0.13041702676259223
+kappa_Q,Biological - Quiescence,Literature,average,standard,0.08502783027529048,0.08453908093264242
+kappa_Q,Biological - Quiescence,Literature,average,continuous,0.10600254839211279,0.10537988966375764
+kappa_Q,Biological - Quiescence,Literature,average,adaptive,0.179818131705392,0.1790925609917516
+kappa_Q,Biological - Quiescence,Literature,average,immuno_combo,0.111827789510172,0.11135994561895107
+kappa_Q,Biological - Quiescence,Literature,average,hyperthermia,0.03777750329320878,0.03755960335896889
+kappa_Q,Biological - Quiescence,Literature,young,standard,0.15000259660706772,0.1491381659036004
+kappa_Q,Biological - Quiescence,Literature,young,continuous,0.11290930579481218,0.11224515131601118
+kappa_Q,Biological - Quiescence,Literature,young,adaptive,0.11893392963673724,0.1184399510820384
+kappa_Q,Biological - Quiescence,Literature,young,immuno_combo,0.11331110472222503,0.11283776883180716
+kappa_Q,Biological - Quiescence,Literature,young,hyperthermia,0.15537257480953748,0.15439139363509463
+kappa_Q,Biological - Quiescence,Literature,elderly,standard,0.04922668727716581,0.048913064853296065
+kappa_Q,Biological - Quiescence,Literature,elderly,continuous,0.23344724525426402,0.23196914765596965
+kappa_Q,Biological - Quiescence,Literature,elderly,adaptive,0.2370378419243474,0.2360599164252834
+kappa_Q,Biological - Quiescence,Literature,elderly,immuno_combo,0.2447619972382408,0.24372590896729354
+kappa_Q,Biological - Quiescence,Literature,elderly,hyperthermia,0.07330101210539168,0.07291425654166486
+kappa_Q,Biological - Quiescence,Literature,compromised,standard,0.17153951923129193,0.17054296877530428
+kappa_Q,Biological - Quiescence,Literature,compromised,continuous,0.12833617324417024,0.12756204370115357
+kappa_Q,Biological - Quiescence,Literature,compromised,adaptive,0.2505694243696747,0.24950702957772222
+kappa_Q,Biological - Quiescence,Literature,compromised,immuno_combo,0.0763960001914445,0.07602810131807534
+kappa_Q,Biological - Quiescence,Literature,compromised,hyperthermia,0.06985472783043613,0.06945589856062238
+lambda_Q,Biological - Quiescence,Literature,average,standard,0.057499837116121534,0.05710046646722766
+lambda_Q,Biological - Quiescence,Literature,average,continuous,0.2368628387837084,0.23548106775205288
+lambda_Q,Biological - Quiescence,Literature,average,adaptive,0.2116258266602612,0.2107471077638032
+lambda_Q,Biological - Quiescence,Literature,average,immuno_combo,0.15761450102974905,0.1569655362420404
+lambda_Q,Biological - Quiescence,Literature,average,hyperthermia,0.060589641040858525,0.06022891335399862
+lambda_Q,Biological - Quiescence,Literature,young,standard,0.045108029378576206,0.044962616521415436
+lambda_Q,Biological - Quiescence,Literature,young,continuous,0.19125062263989756,0.1901153519294988
+lambda_Q,Biological - Quiescence,Literature,young,adaptive,0.16936806751441538,0.16865625508771823
+lambda_Q,Biological - Quiescence,Literature,young,immuno_combo,0.10415946246142466,0.10371871357308364
+lambda_Q,Biological - Quiescence,Literature,young,hyperthermia,0.049088809469670425,0.048801892622926835
+lambda_Q,Biological - Quiescence,Literature,elderly,standard,0.08492972811224384,0.08440951016432285
+lambda_Q,Biological - Quiescence,Literature,elderly,continuous,0.17525566345049448,0.17419525932043806
+lambda_Q,Biological - Quiescence,Literature,elderly,adaptive,0.18029943148436212,0.17953790112077322
+lambda_Q,Biological - Quiescence,Literature,elderly,immuno_combo,0.15658853762548486,0.15592238890777807
+lambda_Q,Biological - Quiescence,Literature,elderly,hyperthermia,0.13429935708286644,0.13350775908410084
+lambda_Q,Biological - Quiescence,Literature,compromised,standard,0.11221634685000786,0.1115315720540139
+lambda_Q,Biological - Quiescence,Literature,compromised,continuous,0.08724731233253535,0.08672135574783534
+lambda_Q,Biological - Quiescence,Literature,compromised,adaptive,0.28886960968482644,0.2876429311561944
+lambda_Q,Biological - Quiescence,Literature,compromised,immuno_combo,0.06902942176525165,0.06871888332062676
+lambda_Q,Biological - Quiescence,Literature,compromised,hyperthermia,0.12602446835286163,0.12523708988838153
+omega_R1,Biological - Resistance,Experimental,average,standard,0.0666607026817337,0.06654919777904429
+omega_R1,Biological - Resistance,Experimental,average,continuous,0.22335262830537245,0.2220119561850047
+omega_R1,Biological - Resistance,Experimental,average,adaptive,0.08815737327680132,0.08778455714946212
+omega_R1,Biological - Resistance,Experimental,average,immuno_combo,0.0748838212502747,0.07456986325781204
+omega_R1,Biological - Resistance,Experimental,average,hyperthermia,0.03255375801829478,0.03225382612350636
+omega_R1,Biological - Resistance,Experimental,young,standard,0.1323981835861531,0.13178896985590138
+omega_R1,Biological - Resistance,Experimental,young,continuous,0.16520565913054922,0.1640241541444596
+omega_R1,Biological - Resistance,Experimental,young,adaptive,0.2014835333253942,0.20065040348511792
+omega_R1,Biological - Resistance,Experimental,young,immuno_combo,0.10539161839476284,0.10494547984231231
+omega_R1,Biological - Resistance,Experimental,young,hyperthermia,0.09949376236325108,0.0991153421535459
+omega_R1,Biological - Resistance,Experimental,elderly,standard,0.10181818695396484,0.10124775920074287
+omega_R1,Biological - Resistance,Experimental,elderly,continuous,0.21012687804943878,0.20884356228915227
+omega_R1,Biological - Resistance,Experimental,elderly,adaptive,0.48648837927430516,0.4843947039492641
+omega_R1,Biological - Resistance,Experimental,elderly,immuno_combo,0.035092733650849486,0.03494702952161183
+omega_R1,Biological - Resistance,Experimental,elderly,hyperthermia,0.14995716527239245,0.1491259062127819
+omega_R1,Biological - Resistance,Experimental,compromised,standard,0.08415180382080452,0.08381605046664203
+omega_R1,Biological - Resistance,Experimental,compromised,continuous,0.23960349270328793,0.23812043553842815
+omega_R1,Biological - Resistance,Experimental,compromised,adaptive,0.039112855511566395,0.03894291029560244
+omega_R1,Biological - Resistance,Experimental,compromised,immuno_combo,0.08606363504092318,0.08566085542503768
+omega_R1,Biological - Resistance,Experimental,compromised,hyperthermia,0.11621346535706137,0.11559520796921859
+omega_R2,Biological - Resistance,Experimental,average,standard,0.05777342216382456,0.0575365081284587
+omega_R2,Biological - Resistance,Experimental,average,continuous,0.19505986864551267,0.19386167844837165
+omega_R2,Biological - Resistance,Experimental,average,adaptive,0.31623730156095226,0.31488507635419116
+omega_R2,Biological - Resistance,Experimental,average,immuno_combo,0.06632335085929848,0.06604077892299752
+omega_R2,Biological - Resistance,Experimental,average,hyperthermia,0.06973940034177374,0.06937959276183939
+omega_R2,Biological - Resistance,Experimental,young,standard,0.10652363076733543,0.10590176632669192
+omega_R2,Biological - Resistance,Experimental,young,continuous,0.14747754370820446,0.1466088774772508
+omega_R2,Biological - Resistance,Experimental,young,adaptive,0.09095501567700046,0.09058466196874121
+omega_R2,Biological - Resistance,Experimental,young,immuno_combo,0.10814875186244768,0.10769928840310906
+omega_R2,Biological - Resistance,Experimental,young,hyperthermia,0.13681290075834665,0.13605845675444153
+omega_R2,Biological - Resistance,Experimental,elderly,standard,0.10324928405598557,0.10265742893167458
+omega_R2,Biological - Resistance,Experimental,elderly,continuous,0.12823966427988534,0.1275971752478485
+omega_R2,Biological - Resistance,Experimental,elderly,adaptive,0.1581342169874137,0.1574575386243069
+omega_R2,Biological - Resistance,Experimental,elderly,immuno_combo,0.156351687306057,0.15568600465608004
+omega_R2,Biological - Resistance,Experimental,elderly,hyperthermia,0.06567894173510669,0.06522868365499647
+omega_R2,Biological - Resistance,Experimental,compromised,standard,0.053290706744927044,0.05283998167562415
+omega_R2,Biological - Resistance,Experimental,compromised,continuous,0.054286107210903115,0.05368032237554117
+omega_R2,Biological - Resistance,Experimental,compromised,adaptive,0.2649531911544519,0.263832280963463
+omega_R2,Biological - Resistance,Experimental,compromised,immuno_combo,0.04270538878878985,0.04250448346977581
+omega_R2,Biological - Resistance,Experimental,compromised,hyperthermia,0.07714937685115694,0.07654980052538343
+resistance_floor,Biological - Resistance,Hypothetical,average,standard,0.16404501471692076,0.16303181837812245
+resistance_floor,Biological - Resistance,Hypothetical,average,continuous,0.16308395000356288,0.16210454476206126
+resistance_floor,Biological - Resistance,Hypothetical,average,adaptive,0.10998420060710161,0.10952659792114149
+resistance_floor,Biological - Resistance,Hypothetical,average,immuno_combo,0.2894770619688575,0.2882552188806417
+resistance_floor,Biological - Resistance,Hypothetical,average,hyperthermia,0.04982112885714561,0.04953972242633399
+resistance_floor,Biological - Resistance,Hypothetical,young,standard,0.1093342768682838,0.1087216818513289
+resistance_floor,Biological - Resistance,Hypothetical,young,continuous,0.08270010577580171,0.08221827629591852
+resistance_floor,Biological - Resistance,Hypothetical,young,adaptive,0.16990403596864256,0.1691923916132693
+resistance_floor,Biological - Resistance,Hypothetical,young,immuno_combo,0.14684850287262047,0.1462329136380545
+resistance_floor,Biological - Resistance,Hypothetical,young,hyperthermia,0.0543133106317016,0.054018074239426395
+resistance_floor,Biological - Resistance,Hypothetical,elderly,standard,0.06840542540013236,0.06798978641187411
+resistance_floor,Biological - Resistance,Hypothetical,elderly,continuous,0.07968692653535707,0.07918469148121872
+resistance_floor,Biological - Resistance,Hypothetical,elderly,adaptive,0.1925648460408493,0.19175968905406307
+resistance_floor,Biological - Resistance,Hypothetical,elderly,immuno_combo,0.06328216002006352,0.06301588845762202
+resistance_floor,Biological - Resistance,Hypothetical,elderly,hyperthermia,0.06868168347306591,0.0683022228251279
+resistance_floor,Biological - Resistance,Hypothetical,compromised,standard,0.08752399742440074,0.08695867601488236
+resistance_floor,Biological - Resistance,Hypothetical,compromised,continuous,0.11129617359474023,0.11060895837862889
+resistance_floor,Biological - Resistance,Hypothetical,compromised,adaptive,0.22655947765945464,0.2256149841132203
+resistance_floor,Biological - Resistance,Hypothetical,compromised,immuno_combo,0.01890771843775429,0.018820068288266857
+resistance_floor,Biological - Resistance,Hypothetical,compromised,hyperthermia,0.13630452351749034,0.13541244495839053
+kappa_S,Biological - Senescence,Literature,average,standard,0.19307538452900116,0.1919586957561376
+kappa_S,Biological - Senescence,Literature,average,continuous,0.14983571996135736,0.14891238711097346
+kappa_S,Biological - Senescence,Literature,average,adaptive,0.15152191316519176,0.15086808433225185
+kappa_S,Biological - Senescence,Literature,average,immuno_combo,0.06745531209817363,0.06717636562711532
+kappa_S,Biological - Senescence,Literature,average,hyperthermia,0.10147986607791414,0.1009770848292236
+kappa_S,Biological - Senescence,Literature,young,standard,0.07361550082186137,0.07318792702600815
+kappa_S,Biological - Senescence,Literature,young,continuous,0.17700668493523772,0.17591143124714348
+kappa_S,Biological - Senescence,Literature,young,adaptive,0.0941728422046084,0.0937695602704399
+kappa_S,Biological - Senescence,Literature,young,immuno_combo,0.10349385545293152,0.1030609462977274
+kappa_S,Biological - Senescence,Literature,young,hyperthermia,0.10637036407521229,0.10569643947834417
+kappa_S,Biological - Senescence,Literature,elderly,standard,0.08842977891668392,0.0879037746346965
+kappa_S,Biological - Senescence,Literature,elderly,continuous,0.08655190076279143,0.08604544175836157
+kappa_S,Biological - Senescence,Literature,elderly,adaptive,0.1255676483084383,0.12501643824571826
+kappa_S,Biological - Senescence,Literature,elderly,immuno_combo,0.10416090067344377,0.10373339665617104
+kappa_S,Biological - Senescence,Literature,elderly,hyperthermia,0.1133188828168435,0.11264517070165925
+kappa_S,Biological - Senescence,Literature,compromised,standard,0.09311236904593265,0.09255252779197541
+kappa_S,Biological - Senescence,Literature,compromised,continuous,0.14783032451545824,0.146881580909566
+kappa_S,Biological - Senescence,Literature,compromised,adaptive,0.13543706328230648,0.13487305641825853
+kappa_S,Biological - Senescence,Literature,compromised,immuno_combo,0.07783692516814222,0.0774675325460571
+kappa_S,Biological - Senescence,Literature,compromised,hyperthermia,0.09627626641333939,0.09570558410466201
+delta_S,Biological - Senescence,Literature,average,standard,0.11187749562737417,0.11126187878901835
+delta_S,Biological - Senescence,Literature,average,continuous,0.1779226342198988,0.1768268502905499
+delta_S,Biological - Senescence,Literature,average,adaptive,0.26648888848028396,0.26541902635301323
+delta_S,Biological - Senescence,Literature,average,immuno_combo,0.05469144327514894,0.05445802612141719
+delta_S,Biological - Senescence,Literature,average,hyperthermia,0.034029317967201135,0.03382296081249968
+delta_S,Biological - Senescence,Literature,young,standard,0.2061966536843688,0.20505005871748763
+delta_S,Biological - Senescence,Literature,young,continuous,0.45370975443955797,0.4510698849226936
+delta_S,Biological - Senescence,Literature,young,adaptive,0.25641130131859985,0.2553254639449614
+delta_S,Biological - Senescence,Literature,young,immuno_combo,0.0453730792009064,0.04518373668863311
+delta_S,Biological - Senescence,Literature,young,hyperthermia,0.09836811022866779,0.09783795000602089
+delta_S,Biological - Senescence,Literature,elderly,standard,0.06038379807661627,0.06001283945287428
+delta_S,Biological - Senescence,Literature,elderly,continuous,0.26125466042161694,0.2596341940348238
+delta_S,Biological - Senescence,Literature,elderly,adaptive,0.26618228269071476,0.2650433097746556
+delta_S,Biological - Senescence,Literature,elderly,immuno_combo,0.09775631390386258,0.09735547139455711
+delta_S,Biological - Senescence,Literature,elderly,hyperthermia,0.0477252014937348,0.04745223221925468
+delta_S,Biological - Senescence,Literature,compromised,standard,0.07250375899195362,0.07206848604872446
+delta_S,Biological - Senescence,Literature,compromised,continuous,0.17875066721580932,0.17768033555320714
+delta_S,Biological - Senescence,Literature,compromised,adaptive,0.15899674440727413,0.1583413351822656
+delta_S,Biological - Senescence,Literature,compromised,immuno_combo,0.0603827528841278,0.06010557451718397
+delta_S,Biological - Senescence,Literature,compromised,hyperthermia,0.08018401607719203,0.07970880954320848
+etaE,Treatment - Efficacy,Clinical,average,standard,0.11392595836678984,0.11310454665672623
+etaE,Treatment - Efficacy,Clinical,average,continuous,0.15093194024414086,0.15000332169538852
+etaE,Treatment - Efficacy,Clinical,average,adaptive,0.21499683923175936,0.21412255574721462
+etaE,Treatment - Efficacy,Clinical,average,immuno_combo,0.12830456528035825,0.1277643915114049
+etaE,Treatment - Efficacy,Clinical,average,hyperthermia,0.11316149505881118,0.11244160533902006
+etaE,Treatment - Efficacy,Clinical,young,standard,0.09032233242408182,0.08957231890722121
+etaE,Treatment - Efficacy,Clinical,young,continuous,0.2850357541072087,0.283139419750702
+etaE,Treatment - Efficacy,Clinical,young,adaptive,0.19663083744749385,0.1958109084101992
+etaE,Treatment - Efficacy,Clinical,young,immuno_combo,0.1244317105696856,0.12390619901300359
+etaE,Treatment - Efficacy,Clinical,young,hyperthermia,0.051501611718325374,0.051131828477220545
+etaE,Treatment - Efficacy,Clinical,elderly,standard,0.09430628207787017,0.09345747154460471
+etaE,Treatment - Efficacy,Clinical,elderly,continuous,0.3595595178662153,0.3571255976137694
+etaE,Treatment - Efficacy,Clinical,elderly,adaptive,0.20715260577981404,0.20625981110527736
+etaE,Treatment - Efficacy,Clinical,elderly,immuno_combo,0.21385865676505683,0.2129652607353994
+etaE,Treatment - Efficacy,Clinical,elderly,hyperthermia,0.22496868567768102,0.22360496166212754
+etaE,Treatment - Efficacy,Clinical,compromised,standard,0.08945875563684699,0.0885948529193566
+etaE,Treatment - Efficacy,Clinical,compromised,continuous,0.1714598284478733,0.17036998876462062
+etaE,Treatment - Efficacy,Clinical,compromised,adaptive,0.2319124832363726,0.23090270136800575
+etaE,Treatment - Efficacy,Clinical,compromised,immuno_combo,0.05931808695797399,0.05904074990999396
+etaE,Treatment - Efficacy,Clinical,compromised,hyperthermia,0.0859256755951256,0.08529443034408293
+etaH,Treatment - Efficacy,Clinical,average,standard,0.10065749934343773,0.09992441452813877
+etaH,Treatment - Efficacy,Clinical,average,continuous,0.0819891178697196,0.0813303619228196
+etaH,Treatment - Efficacy,Clinical,average,adaptive,0.2679426868773079,0.26678579871684277
+etaH,Treatment - Efficacy,Clinical,average,immuno_combo,0.1362656142211207,0.1356839875965815
+etaH,Treatment - Efficacy,Clinical,average,hyperthermia,0.10178433781970499,0.10107817843348431
+etaH,Treatment - Efficacy,Clinical,young,standard,0.19949885134883655,0.1982409614888384
+etaH,Treatment - Efficacy,Clinical,young,continuous,0.2548954992839625,0.25333192417479644
+etaH,Treatment - Efficacy,Clinical,young,adaptive,0.3290516639145901,0.3276560495574136
+etaH,Treatment - Efficacy,Clinical,young,immuno_combo,0.20575198278854567,0.2048870535767806
+etaH,Treatment - Efficacy,Clinical,young,hyperthermia,0.10353869432017154,0.10287895340690055
+etaH,Treatment - Efficacy,Clinical,elderly,standard,0.11133604145428191,0.11039398059991876
+etaH,Treatment - Efficacy,Clinical,elderly,continuous,0.3322620398561156,0.329955524890459
+etaH,Treatment - Efficacy,Clinical,elderly,adaptive,0.15349622409727937,0.15284698335905794
+etaH,Treatment - Efficacy,Clinical,elderly,immuno_combo,0.0758074680132695,0.07548905534480767
+etaH,Treatment - Efficacy,Clinical,elderly,hyperthermia,0.09800858712207074,0.09745907629412755
+etaH,Treatment - Efficacy,Clinical,compromised,standard,0.19029506742612623,0.1890815591632796
+etaH,Treatment - Efficacy,Clinical,compromised,continuous,0.29553512355274975,0.29353468257792203
+etaH,Treatment - Efficacy,Clinical,compromised,adaptive,0.03290332156023879,0.03276264666602568
+etaH,Treatment - Efficacy,Clinical,compromised,immuno_combo,0.04709425363120977,0.04687703113867957
+etaH,Treatment - Efficacy,Clinical,compromised,hyperthermia,0.06438019892908438,0.06372260482376547
+etaC,Treatment - Efficacy,Clinical,average,standard,0.09663468885785353,0.0960897910178344
+etaC,Treatment - Efficacy,Clinical,average,continuous,0.15336949883682796,0.15241197792770092
+etaC,Treatment - Efficacy,Clinical,average,adaptive,0.31970482370668574,0.3183377897360694
+etaC,Treatment - Efficacy,Clinical,average,immuno_combo,0.11569114234288144,0.1152019673079693
+etaC,Treatment - Efficacy,Clinical,average,hyperthermia,0.0797212104546354,0.07913850202570935
+etaC,Treatment - Efficacy,Clinical,young,standard,0.08730058164753032,0.08672462548292481
+etaC,Treatment - Efficacy,Clinical,young,continuous,0.05943377395924433,0.059068264078869885
+etaC,Treatment - Efficacy,Clinical,young,adaptive,0.10515997434011787,0.10469516472853443
+etaC,Treatment - Efficacy,Clinical,young,immuno_combo,0.1622353739212728,0.16155838214915683
+etaC,Treatment - Efficacy,Clinical,young,hyperthermia,0.09077502473283625,0.09036214243047049
+etaC,Treatment - Efficacy,Clinical,elderly,standard,0.07296508429779644,0.07257244619072095
+etaC,Treatment - Efficacy,Clinical,elderly,continuous,0.2387304247751656,0.2372443559084099
+etaC,Treatment - Efficacy,Clinical,elderly,adaptive,0.16134382609842707,0.16069877316209427
+etaC,Treatment - Efficacy,Clinical,elderly,immuno_combo,0.16807347195611985,0.16737586214176267
+etaC,Treatment - Efficacy,Clinical,elderly,hyperthermia,0.08959398834470413,0.08909458196765668
+etaC,Treatment - Efficacy,Clinical,compromised,standard,0.0634240420338393,0.06304300504419355
+etaC,Treatment - Efficacy,Clinical,compromised,continuous,0.07312730736500829,0.0726769266533787
+etaC,Treatment - Efficacy,Clinical,compromised,adaptive,0.30478187864588124,0.3034746094445201
+etaC,Treatment - Efficacy,Clinical,compromised,immuno_combo,0.06290668036480558,0.06260147061044594
+etaC,Treatment - Efficacy,Clinical,compromised,hyperthermia,0.07399514738353755,0.07353626428309977
+immuno_resist_boost,Treatment - Resistance,Hypothetical,average,standard,0.08541358184041078,0.08491497559823792
+immuno_resist_boost,Treatment - Resistance,Hypothetical,average,continuous,0.29834281199359197,0.29640791168375447
+immuno_resist_boost,Treatment - Resistance,Hypothetical,average,adaptive,0.2146890760562255,0.213808366291523
+immuno_resist_boost,Treatment - Resistance,Hypothetical,average,immuno_combo,0.06823474735759642,0.0679486569182442
+immuno_resist_boost,Treatment - Resistance,Hypothetical,average,hyperthermia,0.17225610389455645,0.1712623576810407
+immuno_resist_boost,Treatment - Resistance,Hypothetical,young,standard,0.12145773716409922,0.12081735529214965
+immuno_resist_boost,Treatment - Resistance,Hypothetical,young,continuous,0.19699438050198625,0.1958080713424526
+immuno_resist_boost,Treatment - Resistance,Hypothetical,young,adaptive,0.34096573660061336,0.3395321759839917
+immuno_resist_boost,Treatment - Resistance,Hypothetical,young,immuno_combo,0.08636426783018405,0.08599424158331165
+immuno_resist_boost,Treatment - Resistance,Hypothetical,young,hyperthermia,0.08101045658490008,0.08060662927125199
+immuno_resist_boost,Treatment - Resistance,Hypothetical,elderly,standard,0.11982532444331616,0.11911820569563271
+immuno_resist_boost,Treatment - Resistance,Hypothetical,elderly,continuous,0.10862436729943903,0.10795598970195605
+immuno_resist_boost,Treatment - Resistance,Hypothetical,elderly,adaptive,0.38695109837045855,0.38531386249940935
+immuno_resist_boost,Treatment - Resistance,Hypothetical,elderly,immuno_combo,0.05447606972404736,0.05424686309649568
+immuno_resist_boost,Treatment - Resistance,Hypothetical,elderly,hyperthermia,0.03745431993260841,0.03724575313201059
+immuno_resist_boost,Treatment - Resistance,Hypothetical,compromised,standard,0.0776257398588906,0.07715562207158788
+immuno_resist_boost,Treatment - Resistance,Hypothetical,compromised,continuous,0.27507178163672,0.2733980654811323
+immuno_resist_boost,Treatment - Resistance,Hypothetical,compromised,adaptive,0.16489311667739678,0.16420778353719104
+immuno_resist_boost,Treatment - Resistance,Hypothetical,compromised,immuno_combo,0.035068706055658455,0.03490126957330352
+immuno_resist_boost,Treatment - Resistance,Hypothetical,compromised,hyperthermia,0.11532184440295734,0.11465947777066375
+continuous_resist_dev,Treatment - Resistance,Hypothetical,average,standard,0.056886783711167524,0.056568242168810526
+continuous_resist_dev,Treatment - Resistance,Hypothetical,average,continuous,0.11878346640960574,0.1180868224517482
+continuous_resist_dev,Treatment - Resistance,Hypothetical,average,adaptive,0.208704385802295,0.2078212243569485
+continuous_resist_dev,Treatment - Resistance,Hypothetical,average,immuno_combo,0.09218971128038131,0.09180447296000926
+continuous_resist_dev,Treatment - Resistance,Hypothetical,average,hyperthermia,0.027706867764621626,0.02753141349758321
+continuous_resist_dev,Treatment - Resistance,Hypothetical,young,standard,0.04401879640764386,0.04382530812147598
+continuous_resist_dev,Treatment - Resistance,Hypothetical,young,continuous,0.4292425116202003,0.4266577165561048
+continuous_resist_dev,Treatment - Resistance,Hypothetical,young,adaptive,0.6184325806430088,0.6158732937167506
+continuous_resist_dev,Treatment - Resistance,Hypothetical,young,immuno_combo,0.09108741524487822,0.09070773981685851
+continuous_resist_dev,Treatment - Resistance,Hypothetical,young,hyperthermia,0.10258519886739473,0.10194811214519671
+continuous_resist_dev,Treatment - Resistance,Hypothetical,elderly,standard,0.1420910569559106,0.1412547633114657
+continuous_resist_dev,Treatment - Resistance,Hypothetical,elderly,continuous,0.2238125272790575,0.22245901443243854
+continuous_resist_dev,Treatment - Resistance,Hypothetical,elderly,adaptive,0.18376797338260878,0.1829678559665353
+continuous_resist_dev,Treatment - Resistance,Hypothetical,elderly,immuno_combo,0.11630665888513313,0.11581637803739497
+continuous_resist_dev,Treatment - Resistance,Hypothetical,elderly,hyperthermia,0.09351949604797608,0.09295318853446954
+continuous_resist_dev,Treatment - Resistance,Hypothetical,compromised,standard,0.011907378989134687,0.011852788240938855
+continuous_resist_dev,Treatment - Resistance,Hypothetical,compromised,continuous,0.07251646708234043,0.0720835689858122
+continuous_resist_dev,Treatment - Resistance,Hypothetical,compromised,adaptive,0.22165522020570935,0.22070780438952292
+continuous_resist_dev,Treatment - Resistance,Hypothetical,compromised,immuno_combo,0.07035635028641793,0.0700244112858641
+continuous_resist_dev,Treatment - Resistance,Hypothetical,compromised,hyperthermia,0.15938471084468703,0.1583715897001698
+adaptive_resist_dev,Treatment - Resistance,Hypothetical,average,standard,0.09744794090430678,0.09693936230274476
+adaptive_resist_dev,Treatment - Resistance,Hypothetical,average,continuous,0.10887126617427895,0.10817532838512559
+adaptive_resist_dev,Treatment - Resistance,Hypothetical,average,adaptive,0.035526675980080934,0.035377947600224995
+adaptive_resist_dev,Treatment - Resistance,Hypothetical,average,immuno_combo,0.06455750181929623,0.06429059676389164
+adaptive_resist_dev,Treatment - Resistance,Hypothetical,average,hyperthermia,0.07817844935650757,0.07776695748538842
+adaptive_resist_dev,Treatment - Resistance,Hypothetical,young,standard,0.10500333447347017,0.10446853400558531
+adaptive_resist_dev,Treatment - Resistance,Hypothetical,young,continuous,0.06686048753214745,0.0664651861621016
+adaptive_resist_dev,Treatment - Resistance,Hypothetical,young,adaptive,0.21857752132411168,0.2176582003475289
+adaptive_resist_dev,Treatment - Resistance,Hypothetical,young,immuno_combo,0.04702921443278586,0.04683066811061715
+adaptive_resist_dev,Treatment - Resistance,Hypothetical,young,hyperthermia,0.052045403905486065,0.05178343729131741
+adaptive_resist_dev,Treatment - Resistance,Hypothetical,elderly,standard,0.13013945238350758,0.12937311886496172
+adaptive_resist_dev,Treatment - Resistance,Hypothetical,elderly,continuous,0.12901052920463518,0.12822742178647292
+adaptive_resist_dev,Treatment - Resistance,Hypothetical,elderly,adaptive,0.848332459794839,0.8447839215851349
+adaptive_resist_dev,Treatment - Resistance,Hypothetical,elderly,immuno_combo,0.07616948633598718,0.0758552938455221
+adaptive_resist_dev,Treatment - Resistance,Hypothetical,elderly,hyperthermia,0.033126014608314325,0.03292911013286891
+adaptive_resist_dev,Treatment - Resistance,Hypothetical,compromised,standard,0.08075507327144299,0.08026263692872668
+adaptive_resist_dev,Treatment - Resistance,Hypothetical,compromised,continuous,0.099854663909335,0.09923140725500011
+adaptive_resist_dev,Treatment - Resistance,Hypothetical,compromised,adaptive,0.23645058359546,0.23541766984133145
+adaptive_resist_dev,Treatment - Resistance,Hypothetical,compromised,immuno_combo,0.08235805917488326,0.08196602880604298
+adaptive_resist_dev,Treatment - Resistance,Hypothetical,compromised,hyperthermia,0.07230497413587654,0.07187039627206694
+absorption_rate,Pharmacokinetics,Clinical,average,standard,0.12411096264741746,0.12293525192164315
+absorption_rate,Pharmacokinetics,Clinical,average,continuous,0.12526447558183187,0.12423820154084887
+absorption_rate,Pharmacokinetics,Clinical,average,adaptive,0.0806025956943723,0.08026009140817066
+absorption_rate,Pharmacokinetics,Clinical,average,immuno_combo,0.07513228306526125,0.07481517656083876
+absorption_rate,Pharmacokinetics,Clinical,average,hyperthermia,0.1018664441854316,0.10079527372413707
+absorption_rate,Pharmacokinetics,Clinical,young,standard,0.18793233519231503,0.18659700913422214
+absorption_rate,Pharmacokinetics,Clinical,young,continuous,0.039252716652238694,0.03890179354880365
+absorption_rate,Pharmacokinetics,Clinical,young,adaptive,0.07753471004334139,0.0772037848212668
+absorption_rate,Pharmacokinetics,Clinical,young,immuno_combo,0.07768796983224667,0.07735888935356386
+absorption_rate,Pharmacokinetics,Clinical,young,hyperthermia,0.18622136125178437,0.1845651437335899
+absorption_rate,Pharmacokinetics,Clinical,elderly,standard,0.14292076996616793,0.14176017294076365
+absorption_rate,Pharmacokinetics,Clinical,elderly,continuous,0.14325441096110664,0.14226162930882374
+absorption_rate,Pharmacokinetics,Clinical,elderly,adaptive,0.18071552553940826,0.1799397090940772
+absorption_rate,Pharmacokinetics,Clinical,elderly,immuno_combo,0.06145021718057009,0.061188905921495056
+absorption_rate,Pharmacokinetics,Clinical,elderly,hyperthermia,0.07473109336632515,0.07433427551825136
+absorption_rate,Pharmacokinetics,Clinical,compromised,standard,0.11315712117097222,0.11248509938972359
+absorption_rate,Pharmacokinetics,Clinical,compromised,continuous,0.19314512133197442,0.1918142381712956
+absorption_rate,Pharmacokinetics,Clinical,compromised,adaptive,0.3076026205308839,0.30631439937521004
+absorption_rate,Pharmacokinetics,Clinical,compromised,immuno_combo,0.5044900875214453,0.5018171081814766
+absorption_rate,Pharmacokinetics,Clinical,compromised,hyperthermia,0.11882868916693098,0.11785826510799696
+elimination_rate,Pharmacokinetics,Clinical,average,standard,0.1294423830460096,0.12861274675084197
+elimination_rate,Pharmacokinetics,Clinical,average,continuous,0.09509759282157668,0.09450602112746853
+elimination_rate,Pharmacokinetics,Clinical,average,adaptive,0.14414055596081926,0.14353346910826145
+elimination_rate,Pharmacokinetics,Clinical,average,immuno_combo,0.08131116361883785,0.08096919315772914
+elimination_rate,Pharmacokinetics,Clinical,average,hyperthermia,0.0426402330336889,0.042296898244618054
+elimination_rate,Pharmacokinetics,Clinical,young,standard,0.11693051207687974,0.11595537125622427
+elimination_rate,Pharmacokinetics,Clinical,young,continuous,0.17688303621781293,0.17581246439476128
+elimination_rate,Pharmacokinetics,Clinical,young,adaptive,0.20102862716410902,0.20020642659239535
+elimination_rate,Pharmacokinetics,Clinical,young,immuno_combo,0.0538749857601509,0.05365046554478394
+elimination_rate,Pharmacokinetics,Clinical,young,hyperthermia,0.15576017545012885,0.1544735225833565
+elimination_rate,Pharmacokinetics,Clinical,elderly,standard,0.14191615231456145,0.14095360375623528
+elimination_rate,Pharmacokinetics,Clinical,elderly,continuous,0.09182251334568038,0.09124039469100544
+elimination_rate,Pharmacokinetics,Clinical,elderly,adaptive,0.4057913616083192,0.4040814476891586
+elimination_rate,Pharmacokinetics,Clinical,elderly,immuno_combo,0.07004243069779109,0.06974587968694351
+elimination_rate,Pharmacokinetics,Clinical,elderly,hyperthermia,0.08405599589955282,0.08353921517028087
+elimination_rate,Pharmacokinetics,Clinical,compromised,standard,0.09519523028194793,0.09456081284264706
+elimination_rate,Pharmacokinetics,Clinical,compromised,continuous,0.10151538779369837,0.10087483041401024
+elimination_rate,Pharmacokinetics,Clinical,compromised,adaptive,0.3353624485953859,0.3339287534536789
+elimination_rate,Pharmacokinetics,Clinical,compromised,immuno_combo,0.4648444880595598,0.4624089186873451
+elimination_rate,Pharmacokinetics,Clinical,compromised,hyperthermia,0.10199028151909172,0.10131660736742161
+distribution_vol,Pharmacokinetics,Clinical,average,standard,0.13290896160267948,0.13224824694488668
+distribution_vol,Pharmacokinetics,Clinical,average,continuous,0.38970879063841096,0.3873449231955147
+distribution_vol,Pharmacokinetics,Clinical,average,adaptive,0.20549766076070192,0.20466862151754578
+distribution_vol,Pharmacokinetics,Clinical,average,immuno_combo,0.26342067028557636,0.2622973921099803
+distribution_vol,Pharmacokinetics,Clinical,average,hyperthermia,0.1073589949693726,0.10669988775929294
+distribution_vol,Pharmacokinetics,Clinical,young,standard,0.046158616680851805,0.045888704924080724
+distribution_vol,Pharmacokinetics,Clinical,young,continuous,0.13085822559395754,0.1301056674270651
+distribution_vol,Pharmacokinetics,Clinical,young,adaptive,0.13477815515787767,0.13422251017260417
+distribution_vol,Pharmacokinetics,Clinical,young,immuno_combo,0.25150678638482427,0.2504288957759451
+distribution_vol,Pharmacokinetics,Clinical,young,hyperthermia,0.10410760079263968,0.1035504371728199
+distribution_vol,Pharmacokinetics,Clinical,elderly,standard,0.10501695673873682,0.10441820881344191
+distribution_vol,Pharmacokinetics,Clinical,elderly,continuous,0.08954640434671618,0.08900298027106705
+distribution_vol,Pharmacokinetics,Clinical,elderly,adaptive,0.22882855436779354,0.22786723659239053
+distribution_vol,Pharmacokinetics,Clinical,elderly,immuno_combo,0.06381872351777486,0.06355029088849595
+distribution_vol,Pharmacokinetics,Clinical,elderly,hyperthermia,0.059833124401225596,0.05950603428133987
+distribution_vol,Pharmacokinetics,Clinical,compromised,standard,0.07220306523023466,0.07175075735647922
+distribution_vol,Pharmacokinetics,Clinical,compromised,continuous,0.1383930758139321,0.1375358945672831
+distribution_vol,Pharmacokinetics,Clinical,compromised,adaptive,0.26177820796263723,0.26070110954436965
+distribution_vol,Pharmacokinetics,Clinical,compromised,immuno_combo,0.09216719312357016,0.09174820060394014
+distribution_vol,Pharmacokinetics,Clinical,compromised,hyperthermia,0.061505438474920716,0.06116711096287718
+bioavailability,Pharmacokinetics,Clinical,average,standard,0.18164083715121732,0.18011403196517112
+bioavailability,Pharmacokinetics,Clinical,average,continuous,0.23680335355982352,0.235402699249548
+bioavailability,Pharmacokinetics,Clinical,average,adaptive,0.14990031807374646,0.149253223307127
+bioavailability,Pharmacokinetics,Clinical,average,immuno_combo,0.0716004545092801,0.07129777527156006
+bioavailability,Pharmacokinetics,Clinical,average,hyperthermia,0.18576768586133666,0.18450815620188504
+bioavailability,Pharmacokinetics,Clinical,young,standard,0.09583730652517117,0.09476805736388928
+bioavailability,Pharmacokinetics,Clinical,young,continuous,0.16366681576621522,0.16273838502516538
+bioavailability,Pharmacokinetics,Clinical,young,adaptive,0.11530966809202345,0.11483516046176778
+bioavailability,Pharmacokinetics,Clinical,young,immuno_combo,0.16997640495005478,0.16925685011673747
+bioavailability,Pharmacokinetics,Clinical,young,hyperthermia,0.1283475897923145,0.1272816610244656
+bioavailability,Pharmacokinetics,Clinical,elderly,standard,0.10908054929923941,0.1082995216647595
+bioavailability,Pharmacokinetics,Clinical,elderly,continuous,0.1727693807424549,0.1717547477168357
+bioavailability,Pharmacokinetics,Clinical,elderly,adaptive,0.20971922937565063,0.2088095571584482
+bioavailability,Pharmacokinetics,Clinical,elderly,immuno_combo,0.09605634491488048,0.09565872593917595
+bioavailability,Pharmacokinetics,Clinical,elderly,hyperthermia,0.1542591934688498,0.15297273455051263
+bioavailability,Pharmacokinetics,Clinical,compromised,standard,0.06257450056153702,0.06196101895481934
+bioavailability,Pharmacokinetics,Clinical,compromised,continuous,0.21653303554733833,0.21509028435140387
+bioavailability,Pharmacokinetics,Clinical,compromised,adaptive,0.2404112683514395,0.23936730853880744
+bioavailability,Pharmacokinetics,Clinical,compromised,immuno_combo,0.4837461247194862,0.4812521497703349
+bioavailability,Pharmacokinetics,Clinical,compromised,hyperthermia,0.20224652184440634,0.20089931331674393
+max_drug_effect,Pharmacokinetics,Clinical,average,standard,0.17675776533927812,0.1751815463770519
+max_drug_effect,Pharmacokinetics,Clinical,average,continuous,0.2784705394600756,0.27640383963612253
+max_drug_effect,Pharmacokinetics,Clinical,average,adaptive,0.27647821397604483,0.27529147398064835
+max_drug_effect,Pharmacokinetics,Clinical,average,immuno_combo,0.06068007304147567,0.0604222223517542
+max_drug_effect,Pharmacokinetics,Clinical,average,hyperthermia,0.14061731687585435,0.13933687945388917
+max_drug_effect,Pharmacokinetics,Clinical,young,standard,0.15167480266785846,0.15029159559259303
+max_drug_effect,Pharmacokinetics,Clinical,young,continuous,0.24204371066315852,0.24060845669882386
+max_drug_effect,Pharmacokinetics,Clinical,young,adaptive,0.48452315883934804,0.48244153910255394
+max_drug_effect,Pharmacokinetics,Clinical,young,immuno_combo,0.1377523725058275,0.13716414947260808
+max_drug_effect,Pharmacokinetics,Clinical,young,hyperthermia,0.1403969177121589,0.13922544715897078
+max_drug_effect,Pharmacokinetics,Clinical,elderly,standard,0.09345296879493824,0.09264923654775059
+max_drug_effect,Pharmacokinetics,Clinical,elderly,continuous,0.20257090596276459,0.20063228665070165
+max_drug_effect,Pharmacokinetics,Clinical,elderly,adaptive,0.1689770764873535,0.16828993406021128
+max_drug_effect,Pharmacokinetics,Clinical,elderly,immuno_combo,0.048076298823845155,0.04787267369565619
+max_drug_effect,Pharmacokinetics,Clinical,elderly,hyperthermia,0.21693042352573955,0.21544479312901837
+max_drug_effect,Pharmacokinetics,Clinical,compromised,standard,0.17046481666659302,0.1691414167926479
+max_drug_effect,Pharmacokinetics,Clinical,compromised,continuous,0.32702394234589144,0.3242685877031294
+max_drug_effect,Pharmacokinetics,Clinical,compromised,adaptive,0.14188352161430823,0.1412621674529228
+max_drug_effect,Pharmacokinetics,Clinical,compromised,immuno_combo,0.14903879139826084,0.1483671475960259
+max_drug_effect,Pharmacokinetics,Clinical,compromised,hyperthermia,0.1465767499370605,0.14547097663410544
+EC50,Pharmacokinetics,Clinical,average,standard,0.11574185151674991,0.11508129018500177
+EC50,Pharmacokinetics,Clinical,average,continuous,0.3767122875365264,0.37431443559894456
+EC50,Pharmacokinetics,Clinical,average,adaptive,0.08542828131655177,0.0850742245276061
+EC50,Pharmacokinetics,Clinical,average,immuno_combo,0.051568680802625035,0.051349632161146935
+EC50,Pharmacokinetics,Clinical,average,hyperthermia,0.14751525161458773,0.14669949832470316
+EC50,Pharmacokinetics,Clinical,young,standard,0.1661707871303054,0.16527817434228517
+EC50,Pharmacokinetics,Clinical,young,continuous,0.1815156479028226,0.18041744896681378
+EC50,Pharmacokinetics,Clinical,young,adaptive,0.23528030339194145,0.23431883778442011
+EC50,Pharmacokinetics,Clinical,young,immuno_combo,0.19271547041463571,0.19191915057810943
+EC50,Pharmacokinetics,Clinical,young,hyperthermia,0.20070178712453624,0.1996380332412898
+EC50,Pharmacokinetics,Clinical,elderly,standard,0.07926489261109389,0.078708842941754
+EC50,Pharmacokinetics,Clinical,elderly,continuous,0.12788730137038765,0.12719727532124825
+EC50,Pharmacokinetics,Clinical,elderly,adaptive,0.16515395538393376,0.16444870957067295
+EC50,Pharmacokinetics,Clinical,elderly,immuno_combo,0.09771081995480195,0.09729416687182259
+EC50,Pharmacokinetics,Clinical,elderly,hyperthermia,0.10460159576696515,0.1040973683232268
+EC50,Pharmacokinetics,Clinical,compromised,standard,0.08657416032804577,0.0860639473970859
+EC50,Pharmacokinetics,Clinical,compromised,continuous,0.10495115610664764,0.10428776225484597
+EC50,Pharmacokinetics,Clinical,compromised,adaptive,0.24132182018250192,0.2403355854537429
+EC50,Pharmacokinetics,Clinical,compromised,immuno_combo,0.10291194326649675,0.10241402555225178
+EC50,Pharmacokinetics,Clinical,compromised,hyperthermia,0.1341105510456904,0.13308615313285233
+hill_coef,Pharmacokinetics,Clinical,average,standard,0.06423811879636432,0.06385475523844453
+hill_coef,Pharmacokinetics,Clinical,average,continuous,0.391638993268787,0.38932938457736505
+hill_coef,Pharmacokinetics,Clinical,average,adaptive,0.28417808141183615,0.282982289540774
+hill_coef,Pharmacokinetics,Clinical,average,immuno_combo,0.10658993566068505,0.10613383640430976
+hill_coef,Pharmacokinetics,Clinical,average,hyperthermia,0.06899277107456585,0.06862217230358317
+hill_coef,Pharmacokinetics,Clinical,young,standard,0.11450992495044218,0.1137503040065525
+hill_coef,Pharmacokinetics,Clinical,young,continuous,0.07636136588891226,0.07577085206861793
+hill_coef,Pharmacokinetics,Clinical,young,adaptive,0.09733228340676604,0.09692080748131393
+hill_coef,Pharmacokinetics,Clinical,young,immuno_combo,0.08846528950078449,0.08809153644124648
+hill_coef,Pharmacokinetics,Clinical,young,hyperthermia,0.05206595951413852,0.05180112891883361
+hill_coef,Pharmacokinetics,Clinical,elderly,standard,0.0581219856728774,0.05778439819690208
+hill_coef,Pharmacokinetics,Clinical,elderly,continuous,0.05825682264744317,0.057897729296576474
+hill_coef,Pharmacokinetics,Clinical,elderly,adaptive,0.2432903667085238,0.24225817358691348
+hill_coef,Pharmacokinetics,Clinical,elderly,immuno_combo,0.03256851705549907,0.03243248496838004
+hill_coef,Pharmacokinetics,Clinical,elderly,hyperthermia,0.10026628556632533,0.09970660434127125
+hill_coef,Pharmacokinetics,Clinical,compromised,standard,0.05954262581239679,0.05914652979561969
+hill_coef,Pharmacokinetics,Clinical,compromised,continuous,0.1645825045132529,0.16355371026285875
+hill_coef,Pharmacokinetics,Clinical,compromised,adaptive,0.19050622990030955,0.18966816374221915
+hill_coef,Pharmacokinetics,Clinical,compromised,immuno_combo,0.24064725710100848,0.23950791071405225
+hill_coef,Pharmacokinetics,Clinical,compromised,hyperthermia,0.05593167256381757,0.0555542505549648
+circadian_amplitude,Circadian,Experimental,average,standard,0.04898752875531476,0.04874061606914806
+circadian_amplitude,Circadian,Experimental,average,continuous,0.052776478969434756,0.052447481676869544
+circadian_amplitude,Circadian,Experimental,average,adaptive,0.1509389909502544,0.15028576237894437
+circadian_amplitude,Circadian,Experimental,average,immuno_combo,0.0653236748186379,0.0650484426170554
+circadian_amplitude,Circadian,Experimental,average,hyperthermia,0.12232740856529675,0.12177292924062966
+circadian_amplitude,Circadian,Experimental,young,standard,0.13514649441800888,0.13436390640362506
+circadian_amplitude,Circadian,Experimental,young,continuous,0.13536740715376216,0.13454633358097057
+circadian_amplitude,Circadian,Experimental,young,adaptive,0.3245474546157839,0.32320361289644495
+circadian_amplitude,Circadian,Experimental,young,immuno_combo,0.06931276077844009,0.06902162264263376
+circadian_amplitude,Circadian,Experimental,young,hyperthermia,0.049225795655013366,0.048936247661721416
+circadian_amplitude,Circadian,Experimental,elderly,standard,0.028232448293150206,0.02806146741873731
+circadian_amplitude,Circadian,Experimental,elderly,continuous,0.4162183592196499,0.41369073617909985
+circadian_amplitude,Circadian,Experimental,elderly,adaptive,0.19522836484494424,0.1944464005869868
+circadian_amplitude,Circadian,Experimental,elderly,immuno_combo,0.11246301992210252,0.11198752903570286
+circadian_amplitude,Circadian,Experimental,elderly,hyperthermia,0.09312900833699087,0.09259803048475734
+circadian_amplitude,Circadian,Experimental,compromised,standard,0.1038770003163851,0.10329677849957582
+circadian_amplitude,Circadian,Experimental,compromised,continuous,0.16561088189066084,0.1646021775904479
+circadian_amplitude,Circadian,Experimental,compromised,adaptive,0.12050001165729018,0.11999014329570482
+circadian_amplitude,Circadian,Experimental,compromised,immuno_combo,0.23810989128268245,0.2370042291269706
+circadian_amplitude,Circadian,Experimental,compromised,hyperthermia,0.10859166504679527,0.10795847226342753
+circadian_phase,Circadian,Experimental,average,standard,0.0,0.0
+circadian_phase,Circadian,Experimental,average,continuous,0.0,0.0
+circadian_phase,Circadian,Experimental,average,adaptive,0.0,0.0
+circadian_phase,Circadian,Experimental,average,immuno_combo,0.0,0.0
+circadian_phase,Circadian,Experimental,average,hyperthermia,0.0,0.0
+circadian_phase,Circadian,Experimental,young,standard,0.0,0.0
+circadian_phase,Circadian,Experimental,young,continuous,0.0,0.0
+circadian_phase,Circadian,Experimental,young,adaptive,0.0,0.0
+circadian_phase,Circadian,Experimental,young,immuno_combo,0.0,0.0
+circadian_phase,Circadian,Experimental,young,hyperthermia,0.0,0.0
+circadian_phase,Circadian,Experimental,elderly,standard,0.0,0.0
+circadian_phase,Circadian,Experimental,elderly,continuous,0.0,0.0
+circadian_phase,Circadian,Experimental,elderly,adaptive,0.0,0.0
+circadian_phase,Circadian,Experimental,elderly,immuno_combo,0.0,0.0
+circadian_phase,Circadian,Experimental,elderly,hyperthermia,0.0,0.0
+circadian_phase,Circadian,Experimental,compromised,standard,0.0,0.0
+circadian_phase,Circadian,Experimental,compromised,continuous,0.0,0.0
+circadian_phase,Circadian,Experimental,compromised,adaptive,0.0,0.0
+circadian_phase,Circadian,Experimental,compromised,immuno_combo,0.0,0.0
+circadian_phase,Circadian,Experimental,compromised,hyperthermia,0.0,0.0
+circadian_period,Circadian,Experimental,average,standard,0.0843131227547003,0.08384172539376948
+circadian_period,Circadian,Experimental,average,continuous,0.1404415406609362,0.13958874464903262
+circadian_period,Circadian,Experimental,average,adaptive,0.1776726562746544,0.17691327199161272
+circadian_period,Circadian,Experimental,average,immuno_combo,0.1110540966932109,0.110572814428211
+circadian_period,Circadian,Experimental,average,hyperthermia,0.188030760937956,0.1869574879763264
+circadian_period,Circadian,Experimental,young,standard,0.052885130492666924,0.0525380128916698
+circadian_period,Circadian,Experimental,young,continuous,0.12417534841047145,0.12342444624025746
+circadian_period,Circadian,Experimental,young,adaptive,0.14323213421140527,0.14263393059850246
+circadian_period,Circadian,Experimental,young,immuno_combo,0.12235015407151402,0.12185039145896748
+circadian_period,Circadian,Experimental,young,hyperthermia,0.09887926145078713,0.09832384230704183
+circadian_period,Circadian,Experimental,elderly,standard,0.057032814033460486,0.05670754025602474
+circadian_period,Circadian,Experimental,elderly,continuous,0.21068368142158925,0.2094002881453318
+circadian_period,Circadian,Experimental,elderly,adaptive,0.1056351682658135,0.10518704831952215
+circadian_period,Circadian,Experimental,elderly,immuno_combo,0.059597426336615064,0.059348327472614544
+circadian_period,Circadian,Experimental,elderly,hyperthermia,0.027222609346519912,0.027053061988141183
+circadian_period,Circadian,Experimental,compromised,standard,0.04327868281759114,0.043027322393655025
+circadian_period,Circadian,Experimental,compromised,continuous,0.14156875228433985,0.14066254952933274
+circadian_period,Circadian,Experimental,compromised,adaptive,0.16851204622772328,0.16779611405804215
+circadian_period,Circadian,Experimental,compromised,immuno_combo,0.10876653977224025,0.10823388127087114
+circadian_period,Circadian,Experimental,compromised,hyperthermia,0.12961120009027,0.12887540367750666
+mutation_rate,Genetic,Experimental,average,standard,0.02407618544103697,0.023938979394061737
+mutation_rate,Genetic,Experimental,average,continuous,0.23411200901190396,0.23268070843084626
+mutation_rate,Genetic,Experimental,average,adaptive,0.11230448897141368,0.11182119365685939
+mutation_rate,Genetic,Experimental,average,immuno_combo,0.05130738713834465,0.05109040509179852
+mutation_rate,Genetic,Experimental,average,hyperthermia,0.160722527712309,0.15984723452910465
+mutation_rate,Genetic,Experimental,young,standard,0.0642171930097974,0.06387732187620355
+mutation_rate,Genetic,Experimental,young,continuous,0.13811766336758272,0.1372802636405513
+mutation_rate,Genetic,Experimental,young,adaptive,0.33835903878475115,0.3369161867830621
+mutation_rate,Genetic,Experimental,young,immuno_combo,0.05749993165609912,0.05726026078496248
+mutation_rate,Genetic,Experimental,young,hyperthermia,0.06218224409590289,0.06182029221932904
+mutation_rate,Genetic,Experimental,elderly,standard,0.05502636856179775,0.0546727212339935
+mutation_rate,Genetic,Experimental,elderly,continuous,0.11643327366625932,0.11572077912802646
+mutation_rate,Genetic,Experimental,elderly,adaptive,0.15335588326684413,0.15272031027551786
+mutation_rate,Genetic,Experimental,elderly,immuno_combo,0.2734580492436955,0.27230504698904967
+mutation_rate,Genetic,Experimental,elderly,hyperthermia,0.15296085608855045,0.15207683626073318
+mutation_rate,Genetic,Experimental,compromised,standard,0.1055332084693548,0.10489785162838447
+mutation_rate,Genetic,Experimental,compromised,continuous,0.12618987059236575,0.12540511077915542
+mutation_rate,Genetic,Experimental,compromised,adaptive,0.12583415827785405,0.1253189906233576
+mutation_rate,Genetic,Experimental,compromised,immuno_combo,0.05731428267672316,0.057040803321969355
+mutation_rate,Genetic,Experimental,compromised,hyperthermia,0.10191885887639486,0.10131532543406574
+epigenetic_silencing,Genetic,Literature,average,standard,0.09644676749035246,0.0958836191376197
+epigenetic_silencing,Genetic,Literature,average,continuous,0.21204619001404823,0.21077150799319613
+epigenetic_silencing,Genetic,Literature,average,adaptive,0.043989835970653854,0.043803542523177634
+epigenetic_silencing,Genetic,Literature,average,immuno_combo,0.10984974021343548,0.10938610075810823
+epigenetic_silencing,Genetic,Literature,average,hyperthermia,0.12830599098639198,0.12761985070248436
+epigenetic_silencing,Genetic,Literature,young,standard,0.07369422587219027,0.07339263323640693
+epigenetic_silencing,Genetic,Literature,young,continuous,0.13121222493217255,0.13039997082614418
+epigenetic_silencing,Genetic,Literature,young,adaptive,0.5196301938319973,0.5174337762525911
+epigenetic_silencing,Genetic,Literature,young,immuno_combo,0.058661156415300016,0.05841510255807758
+epigenetic_silencing,Genetic,Literature,young,hyperthermia,0.09762379748705355,0.09709971066278028
+epigenetic_silencing,Genetic,Literature,elderly,standard,0.046587072107689156,0.046296900538774007
+epigenetic_silencing,Genetic,Literature,elderly,continuous,0.15067120238175208,0.14974917246846584
+epigenetic_silencing,Genetic,Literature,elderly,adaptive,0.10051867416003332,0.10008238893861443
+epigenetic_silencing,Genetic,Literature,elderly,immuno_combo,0.07735495779665034,0.0770299666223643
+epigenetic_silencing,Genetic,Literature,elderly,hyperthermia,0.051108286219043814,0.050751558665963994
+epigenetic_silencing,Genetic,Literature,compromised,standard,0.10327522068524657,0.10269945242630545
+epigenetic_silencing,Genetic,Literature,compromised,continuous,0.14148008745255178,0.14059460032382334
+epigenetic_silencing,Genetic,Literature,compromised,adaptive,0.1688955880137985,0.16819701614549742
+epigenetic_silencing,Genetic,Literature,compromised,immuno_combo,0.05408315116386149,0.05383269785199463
+epigenetic_silencing,Genetic,Literature,compromised,hyperthermia,0.09468493410100931,0.09409160254062507
+genetic_instability,Genetic,Literature,average,standard,0.014109404081088815,0.014054387563610432
+genetic_instability,Genetic,Literature,average,continuous,0.08268402881309438,0.08218352933655233
+genetic_instability,Genetic,Literature,average,adaptive,0.13012548254417375,0.12955147193161098
+genetic_instability,Genetic,Literature,average,immuno_combo,0.05162564684400495,0.05140951777406849
+genetic_instability,Genetic,Literature,average,hyperthermia,0.072349577836216,0.07190894896171436
+genetic_instability,Genetic,Literature,young,standard,0.1368258014450071,0.13599780799029543
+genetic_instability,Genetic,Literature,young,continuous,0.22574059616255865,0.22439868907109967
+genetic_instability,Genetic,Literature,young,adaptive,0.1426537904283278,0.14203131286096865
+genetic_instability,Genetic,Literature,young,immuno_combo,0.08175063528739471,0.08139949891144124
+genetic_instability,Genetic,Literature,young,hyperthermia,0.06296989923372075,0.06270497968983968
+genetic_instability,Genetic,Literature,elderly,standard,0.07334453478097419,0.07293583406666754
+genetic_instability,Genetic,Literature,elderly,continuous,0.28254618317635055,0.2806958247172855
+genetic_instability,Genetic,Literature,elderly,adaptive,0.21280795514679834,0.21192745153814485
+genetic_instability,Genetic,Literature,elderly,immuno_combo,0.10650432561006654,0.10605996465007508
+genetic_instability,Genetic,Literature,elderly,hyperthermia,0.12165724408856282,0.12092530882009976
+genetic_instability,Genetic,Literature,compromised,standard,0.12712180628691344,0.1263550281624756
+genetic_instability,Genetic,Literature,compromised,continuous,0.16604226986137893,0.16499833754523985
+genetic_instability,Genetic,Literature,compromised,adaptive,0.3391093183362823,0.3376867529526433
+genetic_instability,Genetic,Literature,compromised,immuno_combo,0.12565600476098648,0.12507889348964046
+genetic_instability,Genetic,Literature,compromised,hyperthermia,0.08028943254225335,0.07981327115802644
+hypoxia_threshold,Microenvironment,Experimental,average,standard,0.04645463555533816,0.04615768652445009
+hypoxia_threshold,Microenvironment,Experimental,average,continuous,0.18613400104357536,0.1849955743322076
+hypoxia_threshold,Microenvironment,Experimental,average,adaptive,0.08400039759623924,0.08364952271033918
+hypoxia_threshold,Microenvironment,Experimental,average,immuno_combo,0.07819279759120096,0.07786257157282979
+hypoxia_threshold,Microenvironment,Experimental,average,hyperthermia,0.09880738417132207,0.0982184309298836
+hypoxia_threshold,Microenvironment,Experimental,young,standard,0.07384011996259365,0.07342522102747528
+hypoxia_threshold,Microenvironment,Experimental,young,continuous,0.033889080222379006,0.033693740261533295
+hypoxia_threshold,Microenvironment,Experimental,young,adaptive,0.09552882437307593,0.09511702875374062
+hypoxia_threshold,Microenvironment,Experimental,young,immuno_combo,0.07261225511204208,0.072309401899626
+hypoxia_threshold,Microenvironment,Experimental,young,hyperthermia,0.1255596885894924,0.1248831911915397
+hypoxia_threshold,Microenvironment,Experimental,elderly,standard,0.08634176610515809,0.08582316404414023
+hypoxia_threshold,Microenvironment,Experimental,elderly,continuous,0.1001642011553876,0.09955791427310601
+hypoxia_threshold,Microenvironment,Experimental,elderly,adaptive,0.17207932325224815,0.17135259678704606
+hypoxia_threshold,Microenvironment,Experimental,elderly,immuno_combo,0.06910413384308606,0.0688146553458932
+hypoxia_threshold,Microenvironment,Experimental,elderly,hyperthermia,0.07646946938371643,0.07603326161091914
+hypoxia_threshold,Microenvironment,Experimental,compromised,standard,0.03847519632871527,0.03825767922413432
+hypoxia_threshold,Microenvironment,Experimental,compromised,continuous,0.07580615773950287,0.07534575763424659
+hypoxia_threshold,Microenvironment,Experimental,compromised,adaptive,0.2526388594499316,0.2515881344736962
+hypoxia_threshold,Microenvironment,Experimental,compromised,immuno_combo,0.09166486861563529,0.09123129430214522
+hypoxia_threshold,Microenvironment,Experimental,compromised,hyperthermia,0.09175810981320899,0.09126107160943235
+acidosis_factor,Microenvironment,Literature,average,standard,0.01890735405692213,0.018815393403246772
+acidosis_factor,Microenvironment,Literature,average,continuous,0.07792450709669115,0.07746384127599043
+acidosis_factor,Microenvironment,Literature,average,adaptive,0.15884040126122884,0.15817245388554166
+acidosis_factor,Microenvironment,Literature,average,immuno_combo,0.06309935076229407,0.06283673017241388
+acidosis_factor,Microenvironment,Literature,average,hyperthermia,0.14809637729307168,0.14723332431243458
+acidosis_factor,Microenvironment,Literature,young,standard,0.07290021397133627,0.07251673677216858
+acidosis_factor,Microenvironment,Literature,young,continuous,0.09512937077001546,0.09452353593764386
+acidosis_factor,Microenvironment,Literature,young,adaptive,0.10137881951568221,0.10095474657994483
+acidosis_factor,Microenvironment,Literature,young,immuno_combo,0.05461636315217734,0.05438106087848958
+acidosis_factor,Microenvironment,Literature,young,hyperthermia,0.024987679798309008,0.02487450265923251
+acidosis_factor,Microenvironment,Literature,elderly,standard,0.022108792428359735,0.021962121934045818
+acidosis_factor,Microenvironment,Literature,elderly,continuous,0.08362523175851139,0.08309322446929471
+acidosis_factor,Microenvironment,Literature,elderly,adaptive,0.16141017192412796,0.16075185631458075
+acidosis_factor,Microenvironment,Literature,elderly,immuno_combo,0.0827259923602018,0.08238621742694112
+acidosis_factor,Microenvironment,Literature,elderly,hyperthermia,0.07355920472168453,0.07311738035336286
+acidosis_factor,Microenvironment,Literature,compromised,standard,0.10715900191603948,0.10651848104012637
+acidosis_factor,Microenvironment,Literature,compromised,continuous,0.2966857925283322,0.29490814306819874
+acidosis_factor,Microenvironment,Literature,compromised,adaptive,0.17162143240319833,0.17090946524940484
+acidosis_factor,Microenvironment,Literature,compromised,immuno_combo,0.05179624330635667,0.05155799673162868
+acidosis_factor,Microenvironment,Literature,compromised,hyperthermia,0.06912629811918752,0.06876589650418691
+metabolic_switch_rate,Microenvironment,Experimental,average,standard,0.08032360011433817,0.07983542376279593
+metabolic_switch_rate,Microenvironment,Experimental,average,continuous,0.3272199873985208,0.32527010577573384
+metabolic_switch_rate,Microenvironment,Experimental,average,adaptive,0.08455246310447567,0.08418304790443513
+metabolic_switch_rate,Microenvironment,Experimental,average,immuno_combo,0.05218676378264659,0.051970241580498525
+metabolic_switch_rate,Microenvironment,Experimental,average,hyperthermia,0.047152835575692484,0.04692222868931127
+metabolic_switch_rate,Microenvironment,Experimental,young,standard,0.11701218154578452,0.11636603842152658
+metabolic_switch_rate,Microenvironment,Experimental,young,continuous,0.12737053797730155,0.12660835311984034
+metabolic_switch_rate,Microenvironment,Experimental,young,adaptive,0.08602358318256823,0.08566022066891055
+metabolic_switch_rate,Microenvironment,Experimental,young,immuno_combo,0.12651251448999218,0.125975776083645
+metabolic_switch_rate,Microenvironment,Experimental,young,hyperthermia,0.14920634980127948,0.14840125086821618
+metabolic_switch_rate,Microenvironment,Experimental,elderly,standard,0.04575723305127294,0.04554993968274588
+metabolic_switch_rate,Microenvironment,Experimental,elderly,continuous,0.050954984048467905,0.050635009513092875
+metabolic_switch_rate,Microenvironment,Experimental,elderly,adaptive,0.23158988062736097,0.2305994779357362
+metabolic_switch_rate,Microenvironment,Experimental,elderly,immuno_combo,0.18588309546099346,0.18510389749473052
+metabolic_switch_rate,Microenvironment,Experimental,elderly,hyperthermia,0.06506700424734335,0.0647200175092592
+metabolic_switch_rate,Microenvironment,Experimental,compromised,standard,0.08636646634601633,0.0858809867628858
+metabolic_switch_rate,Microenvironment,Experimental,compromised,continuous,0.12854917522221587,0.12770307790846638
+metabolic_switch_rate,Microenvironment,Experimental,compromised,adaptive,0.33897988895472164,0.337561673026737
+metabolic_switch_rate,Microenvironment,Experimental,compromised,immuno_combo,0.058854945261521956,0.05858952196697626
+metabolic_switch_rate,Microenvironment,Experimental,compromised,hyperthermia,0.09715888160793551,0.0965975036932403
+microenv_stress_factor,Microenvironment,Hypothetical,average,standard,0.04174874511925608,0.041481030095416746
+microenv_stress_factor,Microenvironment,Hypothetical,average,continuous,0.10307312061440119,0.10242046409902658
+microenv_stress_factor,Microenvironment,Hypothetical,average,adaptive,0.3259806306404094,0.3245752168397884
+microenv_stress_factor,Microenvironment,Hypothetical,average,immuno_combo,0.17616399386733744,0.17542680847970274
+microenv_stress_factor,Microenvironment,Hypothetical,average,hyperthermia,0.1062488143846948,0.10559023501588151
+microenv_stress_factor,Microenvironment,Hypothetical,young,standard,0.02716453646098655,0.027015580522176147
+microenv_stress_factor,Microenvironment,Hypothetical,young,continuous,0.07491271350315112,0.07446641686642697
+microenv_stress_factor,Microenvironment,Hypothetical,young,adaptive,0.2591996281991726,0.25814788865106914
+microenv_stress_factor,Microenvironment,Hypothetical,young,immuno_combo,0.12833924820500767,0.12780083846138662
+microenv_stress_factor,Microenvironment,Hypothetical,young,hyperthermia,0.09319994880582126,0.09266256316555396
+microenv_stress_factor,Microenvironment,Hypothetical,elderly,standard,0.06865732484978708,0.06824478276611586
+microenv_stress_factor,Microenvironment,Hypothetical,elderly,continuous,0.11517503620618277,0.11447912397479294
+microenv_stress_factor,Microenvironment,Hypothetical,elderly,adaptive,0.10812391919386816,0.10766036361929998
+microenv_stress_factor,Microenvironment,Hypothetical,elderly,immuno_combo,0.09178254172106753,0.0913996681505553
+microenv_stress_factor,Microenvironment,Hypothetical,elderly,hyperthermia,0.10414326518868583,0.10351351831183234
+microenv_stress_factor,Microenvironment,Hypothetical,compromised,standard,0.04131443202968777,0.04108817852305722
+microenv_stress_factor,Microenvironment,Hypothetical,compromised,continuous,0.18725165011469014,0.1860883152850762
+microenv_stress_factor,Microenvironment,Hypothetical,compromised,adaptive,0.10014236017226817,0.0997039787645758
+microenv_stress_factor,Microenvironment,Hypothetical,compromised,immuno_combo,0.06452339451741237,0.06422545398038332
+microenv_stress_factor,Microenvironment,Hypothetical,compromised,hyperthermia,0.044321151485140715,0.04405894235767692
+treatment_cycle_period,Treatment - Scheduling,Clinical,average,standard,0.07210220951547384,0.07167285754773406
+treatment_cycle_period,Treatment - Scheduling,Clinical,average,continuous,0.11403620073761936,0.11337815174857817
+treatment_cycle_period,Treatment - Scheduling,Clinical,average,adaptive,0.14426061168271181,0.14363760470776607
+treatment_cycle_period,Treatment - Scheduling,Clinical,average,immuno_combo,0.11126329070515761,0.11079328406209435
+treatment_cycle_period,Treatment - Scheduling,Clinical,average,hyperthermia,0.08144670325997515,0.08097217740489901
+treatment_cycle_period,Treatment - Scheduling,Clinical,young,standard,0.04651835450473218,0.0462722717080996
+treatment_cycle_period,Treatment - Scheduling,Clinical,young,continuous,0.6232371389906429,0.6194955120260162
+treatment_cycle_period,Treatment - Scheduling,Clinical,young,adaptive,0.07493828348194313,0.07461210634084582
+treatment_cycle_period,Treatment - Scheduling,Clinical,young,immuno_combo,0.23852344913951007,0.23753161743131934
+treatment_cycle_period,Treatment - Scheduling,Clinical,young,hyperthermia,0.07173851039953055,0.07131732029151798
+treatment_cycle_period,Treatment - Scheduling,Clinical,elderly,standard,0.063488844850851,0.06314564731438635
+treatment_cycle_period,Treatment - Scheduling,Clinical,elderly,continuous,0.17264431770875818,0.17156360887395272
+treatment_cycle_period,Treatment - Scheduling,Clinical,elderly,adaptive,0.26414811724522985,0.26303930587931046
+treatment_cycle_period,Treatment - Scheduling,Clinical,elderly,immuno_combo,0.039529719783108846,0.039362882170540715
+treatment_cycle_period,Treatment - Scheduling,Clinical,elderly,hyperthermia,0.08648945105687644,0.08597808976615962
+treatment_cycle_period,Treatment - Scheduling,Clinical,compromised,standard,0.12313849967426366,0.12239843479382385
+treatment_cycle_period,Treatment - Scheduling,Clinical,compromised,continuous,0.07090313473242901,0.07046728467964723
+treatment_cycle_period,Treatment - Scheduling,Clinical,compromised,adaptive,0.11893896680639843,0.11845797258137555
+treatment_cycle_period,Treatment - Scheduling,Clinical,compromised,immuno_combo,0.043698273604230065,0.04349613062850122
+treatment_cycle_period,Treatment - Scheduling,Clinical,compromised,hyperthermia,0.06886298536803419,0.06848186547395929
+treatment_active_days,Treatment - Scheduling,Clinical,average,standard,0.13395048733536793,0.13318896284038548
+treatment_active_days,Treatment - Scheduling,Clinical,average,continuous,0.26667197335760373,0.2650334880804019
+treatment_active_days,Treatment - Scheduling,Clinical,average,adaptive,0.14632583259135393,0.14571841889000986
+treatment_active_days,Treatment - Scheduling,Clinical,average,immuno_combo,0.17161247256906553,0.1708740212114261
+treatment_active_days,Treatment - Scheduling,Clinical,average,hyperthermia,0.07517946176497588,0.07472669831202697
+treatment_active_days,Treatment - Scheduling,Clinical,young,standard,0.18933496675432804,0.1883084476787921
+treatment_active_days,Treatment - Scheduling,Clinical,young,continuous,0.0897813814148939,0.0892688025508366
+treatment_active_days,Treatment - Scheduling,Clinical,young,adaptive,0.19656031485036424,0.1957514525955792
+treatment_active_days,Treatment - Scheduling,Clinical,young,immuno_combo,0.1253213230896009,0.12479700500172325
+treatment_active_days,Treatment - Scheduling,Clinical,young,hyperthermia,0.02906384871756671,0.028856533383025258
+treatment_active_days,Treatment - Scheduling,Clinical,elderly,standard,0.08616868351495499,0.08569669817340513
+treatment_active_days,Treatment - Scheduling,Clinical,elderly,continuous,0.2391016236594865,0.23767691834492707
+treatment_active_days,Treatment - Scheduling,Clinical,elderly,adaptive,0.12952028040812855,0.12897871536881367
+treatment_active_days,Treatment - Scheduling,Clinical,elderly,immuno_combo,0.05249476862334957,0.05227455642500409
+treatment_active_days,Treatment - Scheduling,Clinical,elderly,hyperthermia,0.07613059614061142,0.07570828907493637
+treatment_active_days,Treatment - Scheduling,Clinical,compromised,standard,0.05926587383555756,0.05890201874803341
+treatment_active_days,Treatment - Scheduling,Clinical,compromised,continuous,0.18561948818217006,0.1844455507754739
+treatment_active_days,Treatment - Scheduling,Clinical,compromised,adaptive,0.1877622084428001,0.18698717069021062
+treatment_active_days,Treatment - Scheduling,Clinical,compromised,immuno_combo,0.14202733757759667,0.1413278434122126
+treatment_active_days,Treatment - Scheduling,Clinical,compromised,hyperthermia,0.10772797004718372,0.10703172531281364
+rest_period_days,Treatment - Scheduling,Clinical,average,standard,0.030741761593817148,0.03055900118460299
+rest_period_days,Treatment - Scheduling,Clinical,average,continuous,0.06743543156623101,0.06701039977681032
+rest_period_days,Treatment - Scheduling,Clinical,average,adaptive,0.380894543984848,0.37936157877611376
+rest_period_days,Treatment - Scheduling,Clinical,average,immuno_combo,0.15075233180362985,0.15011394085094606
+rest_period_days,Treatment - Scheduling,Clinical,average,hyperthermia,0.13803869407563638,0.13735139841011798
+rest_period_days,Treatment - Scheduling,Clinical,young,standard,0.20315067563215983,0.20202618441143527
+rest_period_days,Treatment - Scheduling,Clinical,young,continuous,0.07371209941553726,0.07326331887798941
+rest_period_days,Treatment - Scheduling,Clinical,young,adaptive,0.3461457532747306,0.3447272356514854
+rest_period_days,Treatment - Scheduling,Clinical,young,immuno_combo,0.07611769990272982,0.07578791499124861
+rest_period_days,Treatment - Scheduling,Clinical,young,hyperthermia,0.056625025054574514,0.056364217286623955
+rest_period_days,Treatment - Scheduling,Clinical,elderly,standard,0.11695550339592227,0.11624404165631604
+rest_period_days,Treatment - Scheduling,Clinical,elderly,continuous,0.08635212682029232,0.08584975516720644
+rest_period_days,Treatment - Scheduling,Clinical,elderly,adaptive,0.30810562095635874,0.30681080295438656
+rest_period_days,Treatment - Scheduling,Clinical,elderly,immuno_combo,0.03772864326538625,0.03756861268514692
+rest_period_days,Treatment - Scheduling,Clinical,elderly,hyperthermia,0.13389537210086336,0.13313098859611455
+rest_period_days,Treatment - Scheduling,Clinical,compromised,standard,0.04963776662438875,0.049349461451096116
+rest_period_days,Treatment - Scheduling,Clinical,compromised,continuous,0.1998422348577597,0.19859505866654584
+rest_period_days,Treatment - Scheduling,Clinical,compromised,adaptive,0.0978859369566372,0.09746908289813791
+rest_period_days,Treatment - Scheduling,Clinical,compromised,immuno_combo,0.1356384532554796,0.13499498274516367
+rest_period_days,Treatment - Scheduling,Clinical,compromised,hyperthermia,0.039982625358317446,0.03979905364783983
+treatment_intensity,Treatment - Scheduling,Clinical,average,standard,0.05565708178877348,0.05532322308756739
+treatment_intensity,Treatment - Scheduling,Clinical,average,continuous,0.11957386374678637,0.11883477978531426
+treatment_intensity,Treatment - Scheduling,Clinical,average,adaptive,0.3309209461390553,0.3294942269560416
+treatment_intensity,Treatment - Scheduling,Clinical,average,immuno_combo,0.09612471686779582,0.09572380429519435
+treatment_intensity,Treatment - Scheduling,Clinical,average,hyperthermia,0.0671176895314865,0.06676810135724981
+treatment_intensity,Treatment - Scheduling,Clinical,young,standard,0.06129447287242305,0.06094659392954291
+treatment_intensity,Treatment - Scheduling,Clinical,young,continuous,0.1141621051358635,0.11348063064159733
+treatment_intensity,Treatment - Scheduling,Clinical,young,adaptive,0.5192557414723317,0.5170522595183213
+treatment_intensity,Treatment - Scheduling,Clinical,young,immuno_combo,0.0754255456590593,0.07511089324182647
+treatment_intensity,Treatment - Scheduling,Clinical,young,hyperthermia,0.15141232479856365,0.1506345994783615
+treatment_intensity,Treatment - Scheduling,Clinical,elderly,standard,0.15651173591106793,0.15560705680922432
+treatment_intensity,Treatment - Scheduling,Clinical,elderly,continuous,0.1855009779466602,0.18430058397600368
+treatment_intensity,Treatment - Scheduling,Clinical,elderly,adaptive,0.03402064943243165,0.033879310374744925
+treatment_intensity,Treatment - Scheduling,Clinical,elderly,immuno_combo,0.1194044746457941,0.1188950891898637
+treatment_intensity,Treatment - Scheduling,Clinical,elderly,hyperthermia,0.12644029672198012,0.1257266303622719
+treatment_intensity,Treatment - Scheduling,Clinical,compromised,standard,0.057914051418081855,0.05756207210765438
+treatment_intensity,Treatment - Scheduling,Clinical,compromised,continuous,0.11076397258771001,0.11007481231268085
+treatment_intensity,Treatment - Scheduling,Clinical,compromised,adaptive,0.33683640939866394,0.3353899293063785
+treatment_intensity,Treatment - Scheduling,Clinical,compromised,immuno_combo,0.10767136869852614,0.1071665976581685
+treatment_intensity,Treatment - Scheduling,Clinical,compromised,hyperthermia,0.1791860181007276,0.17816323700757125
+age_factor,Patient - Demographics,Clinical,average,standard,0.08389959710103354,0.08343538806436672
+age_factor,Patient - Demographics,Clinical,average,continuous,0.08793090679148903,0.08740555617936832
+age_factor,Patient - Demographics,Clinical,average,adaptive,0.18822145471974566,0.18740309013646106
+age_factor,Patient - Demographics,Clinical,average,immuno_combo,0.1977369839055427,0.19689871426299974
+age_factor,Patient - Demographics,Clinical,average,hyperthermia,0.06042265777443474,0.06004689782018256
+age_factor,Patient - Demographics,Clinical,young,standard,0.053801984057355534,0.05349817889767379
+age_factor,Patient - Demographics,Clinical,young,continuous,0.15006488156498843,0.14915243822062926
+age_factor,Patient - Demographics,Clinical,young,adaptive,0.14306603626054382,0.14247839595174264
+age_factor,Patient - Demographics,Clinical,young,immuno_combo,0.11427410105697992,0.11379154362686124
+age_factor,Patient - Demographics,Clinical,young,hyperthermia,0.1665653078072326,0.16566762654700007
+age_factor,Patient - Demographics,Clinical,elderly,standard,0.14950132139640088,0.1485921960426156
+age_factor,Patient - Demographics,Clinical,elderly,continuous,0.08697629539506858,0.0864569485491431
+age_factor,Patient - Demographics,Clinical,elderly,adaptive,0.21623947860469545,0.21529445725750723
+age_factor,Patient - Demographics,Clinical,elderly,immuno_combo,0.08139510072521099,0.08105977200338169
+age_factor,Patient - Demographics,Clinical,elderly,hyperthermia,0.0724039693256388,0.07195746457677073
+age_factor,Patient - Demographics,Clinical,compromised,standard,0.11796967230541816,0.11724843503611275
+age_factor,Patient - Demographics,Clinical,compromised,continuous,0.11895335133301627,0.11819620210393564
+age_factor,Patient - Demographics,Clinical,compromised,adaptive,0.14164978361800254,0.14103725165853823
+age_factor,Patient - Demographics,Clinical,compromised,immuno_combo,0.09649094337612085,0.09603091366238402
+age_factor,Patient - Demographics,Clinical,compromised,hyperthermia,0.09299471658728595,0.09244416280931052
+performance_status,Patient - Demographics,Clinical,average,standard,0.07804552784854132,0.07756715940205898
+performance_status,Patient - Demographics,Clinical,average,continuous,0.07954018707227907,0.07907239493822282
+performance_status,Patient - Demographics,Clinical,average,adaptive,0.2871610983094794,0.2859542017698679
+performance_status,Patient - Demographics,Clinical,average,immuno_combo,0.07465406785434997,0.07434571590492091
+performance_status,Patient - Demographics,Clinical,average,hyperthermia,0.07389011810667516,0.07344341521735079
+performance_status,Patient - Demographics,Clinical,young,standard,0.10187668258248063,0.10130860780160945
+performance_status,Patient - Demographics,Clinical,young,continuous,0.16691948944741358,0.16597322521383606
+performance_status,Patient - Demographics,Clinical,young,adaptive,0.43505566684598024,0.4331627633786675
+performance_status,Patient - Demographics,Clinical,young,immuno_combo,0.08104572204209841,0.08070565162424385
+performance_status,Patient - Demographics,Clinical,young,hyperthermia,0.10941235519562018,0.10877282164533661
+performance_status,Patient - Demographics,Clinical,elderly,standard,0.07713065930837647,0.07668092753952824
+performance_status,Patient - Demographics,Clinical,elderly,continuous,0.15983037729287086,0.1588620407405854
+performance_status,Patient - Demographics,Clinical,elderly,adaptive,0.3553657444672318,0.3538546315981872
+performance_status,Patient - Demographics,Clinical,elderly,immuno_combo,0.10827797708672848,0.10782336650177479
+performance_status,Patient - Demographics,Clinical,elderly,hyperthermia,0.14116956196126407,0.14043656464561202
+performance_status,Patient - Demographics,Clinical,compromised,standard,0.1327894464906434,0.132011688714835
+performance_status,Patient - Demographics,Clinical,compromised,continuous,0.16130177889249075,0.16029849470473476
+performance_status,Patient - Demographics,Clinical,compromised,adaptive,0.14601009400192796,0.14540359154041302
+performance_status,Patient - Demographics,Clinical,compromised,immuno_combo,0.04919920533946658,0.04897293351587693
+performance_status,Patient - Demographics,Clinical,compromised,hyperthermia,0.05389039239283227,0.05358429115041383
+bmi_factor,Patient - Demographics,Clinical,average,standard,0.11586317708493458,0.11517711995556863
+bmi_factor,Patient - Demographics,Clinical,average,continuous,0.07289631908067686,0.07245044119459394
+bmi_factor,Patient - Demographics,Clinical,average,adaptive,0.32754928895651036,0.3261603623641257
+bmi_factor,Patient - Demographics,Clinical,average,immuno_combo,0.09671304481214497,0.0963053940992405
+bmi_factor,Patient - Demographics,Clinical,average,hyperthermia,0.0563720638479371,0.05613233228879653
+bmi_factor,Patient - Demographics,Clinical,young,standard,0.12724594537253253,0.12655856022674553
+bmi_factor,Patient - Demographics,Clinical,young,continuous,0.10489979063954763,0.1042584168752165
+bmi_factor,Patient - Demographics,Clinical,young,adaptive,0.39064533963324144,0.3889934644411905
+bmi_factor,Patient - Demographics,Clinical,young,immuno_combo,0.05329383994375227,0.05306555027426599
+bmi_factor,Patient - Demographics,Clinical,young,hyperthermia,0.01183641670950085,0.011731998651891468
+bmi_factor,Patient - Demographics,Clinical,elderly,standard,0.04624152215349156,0.045973078483767436
+bmi_factor,Patient - Demographics,Clinical,elderly,continuous,0.13365502060678078,0.1328351538453223
+bmi_factor,Patient - Demographics,Clinical,elderly,adaptive,0.11942835708565419,0.11890609922805528
+bmi_factor,Patient - Demographics,Clinical,elderly,immuno_combo,0.11283099142032282,0.11235180057182043
+bmi_factor,Patient - Demographics,Clinical,elderly,hyperthermia,0.17434528451557643,0.17330777405969067
+bmi_factor,Patient - Demographics,Clinical,compromised,standard,0.10801213321497695,0.1073700661231247
+bmi_factor,Patient - Demographics,Clinical,compromised,continuous,0.09245882548747125,0.09191233409149542
+bmi_factor,Patient - Demographics,Clinical,compromised,adaptive,0.15353407585063442,0.15288280973485588
+bmi_factor,Patient - Demographics,Clinical,compromised,immuno_combo,0.035467056736707026,0.03529422343544815
+bmi_factor,Patient - Demographics,Clinical,compromised,hyperthermia,0.036413018883923086,0.036167926116053656
+prior_treatment_factor,Patient - History,Clinical,average,standard,0.061576703947427286,0.0612061744679228
+prior_treatment_factor,Patient - History,Clinical,average,continuous,0.11526973905977259,0.11458288793327409
+prior_treatment_factor,Patient - History,Clinical,average,adaptive,0.10109117805107615,0.10066528016566968
+prior_treatment_factor,Patient - History,Clinical,average,immuno_combo,0.16053924385132667,0.15985766873125815
+prior_treatment_factor,Patient - History,Clinical,average,hyperthermia,0.1138179496828648,0.1132091304784191
+prior_treatment_factor,Patient - History,Clinical,young,standard,0.1142743786128837,0.11367404209404045
+prior_treatment_factor,Patient - History,Clinical,young,continuous,0.09562175878348753,0.09504204444218242
+prior_treatment_factor,Patient - History,Clinical,young,adaptive,0.3764796108940291,0.37489663864101
+prior_treatment_factor,Patient - History,Clinical,young,immuno_combo,0.05892501173956677,0.05867362952969117
+prior_treatment_factor,Patient - History,Clinical,young,hyperthermia,0.07038277236631804,0.07003131276408019
+prior_treatment_factor,Patient - History,Clinical,elderly,standard,0.1228123184022201,0.12201485160753514
+prior_treatment_factor,Patient - History,Clinical,elderly,continuous,0.07907494967985673,0.0785868576741888
+prior_treatment_factor,Patient - History,Clinical,elderly,adaptive,0.08307287770922277,0.08269556188974865
+prior_treatment_factor,Patient - History,Clinical,elderly,immuno_combo,0.07110084869410578,0.07080530987811348
+prior_treatment_factor,Patient - History,Clinical,elderly,hyperthermia,0.0738638363526781,0.07342007046139923
+prior_treatment_factor,Patient - History,Clinical,compromised,standard,0.17120244353972291,0.17018706365386574
+prior_treatment_factor,Patient - History,Clinical,compromised,continuous,0.09908753955150104,0.09847374266847526
+prior_treatment_factor,Patient - History,Clinical,compromised,adaptive,0.11487121314679102,0.11439859589270086
+prior_treatment_factor,Patient - History,Clinical,compromised,immuno_combo,0.0819244955266372,0.08154846821580561
+prior_treatment_factor,Patient - History,Clinical,compromised,hyperthermia,0.09157469109572972,0.09104369731337539
+liver_function,Patient - Organ Function,Clinical,average,standard,0.12468643942160491,0.12403757856919173
+liver_function,Patient - Organ Function,Clinical,average,continuous,0.2167874981028553,0.21542207433405083
+liver_function,Patient - Organ Function,Clinical,average,adaptive,0.1741360114176509,0.17341545312573362
+liver_function,Patient - Organ Function,Clinical,average,immuno_combo,0.06213328058170948,0.06187391731234347
+liver_function,Patient - Organ Function,Clinical,average,hyperthermia,0.25040927124716506,0.24896101913975088
+liver_function,Patient - Organ Function,Clinical,young,standard,0.04298775083658393,0.04269699801178055
+liver_function,Patient - Organ Function,Clinical,young,continuous,0.2860819792668723,0.284402297253186
+liver_function,Patient - Organ Function,Clinical,young,adaptive,0.10082393558208026,0.10038900698763775
+liver_function,Patient - Organ Function,Clinical,young,immuno_combo,0.11523377310793131,0.1147549446166923
+liver_function,Patient - Organ Function,Clinical,young,hyperthermia,0.050800523207565375,0.05045557193169234
+liver_function,Patient - Organ Function,Clinical,elderly,standard,0.06636540940069456,0.06597497011862423
+liver_function,Patient - Organ Function,Clinical,elderly,continuous,0.18775637399338238,0.18658828282211898
+liver_function,Patient - Organ Function,Clinical,elderly,adaptive,0.08440386972881346,0.08404144167347707
+liver_function,Patient - Organ Function,Clinical,elderly,immuno_combo,0.07865390737195424,0.07832109875101793
+liver_function,Patient - Organ Function,Clinical,elderly,hyperthermia,0.053689802851779544,0.05335802099858221
+liver_function,Patient - Organ Function,Clinical,compromised,standard,0.1773150337553787,0.17621057775425122
+liver_function,Patient - Organ Function,Clinical,compromised,continuous,0.10610031628369915,0.10542546063815747
+liver_function,Patient - Organ Function,Clinical,compromised,adaptive,0.2736945930345541,0.27258584993257196
+liver_function,Patient - Organ Function,Clinical,compromised,immuno_combo,0.05180198588297439,0.05157419687491126
+liver_function,Patient - Organ Function,Clinical,compromised,hyperthermia,0.07019507597296858,0.06978666831649469
+kidney_function,Patient - Organ Function,Clinical,average,standard,0.08036098742995915,0.07990991576861321
+kidney_function,Patient - Organ Function,Clinical,average,continuous,0.14750620736044862,0.146620324385423
+kidney_function,Patient - Organ Function,Clinical,average,adaptive,0.23933564450108735,0.23831208350796135
+kidney_function,Patient - Organ Function,Clinical,average,immuno_combo,0.06902308405785733,0.06873241765684478
+kidney_function,Patient - Organ Function,Clinical,average,hyperthermia,0.058736827747537274,0.05847382379517668
+kidney_function,Patient - Organ Function,Clinical,young,standard,0.06921444196221181,0.06881054014587523
+kidney_function,Patient - Organ Function,Clinical,young,continuous,0.23368233898167765,0.232256154004284
+kidney_function,Patient - Organ Function,Clinical,young,adaptive,0.3191726354672369,0.3177751947972106
+kidney_function,Patient - Organ Function,Clinical,young,immuno_combo,0.05392132801063519,0.05369533096284677
+kidney_function,Patient - Organ Function,Clinical,young,hyperthermia,0.11642996501074282,0.11580568800032225
+kidney_function,Patient - Organ Function,Clinical,elderly,standard,0.15354693107392361,0.15265890031200716
+kidney_function,Patient - Organ Function,Clinical,elderly,continuous,0.1852126316240645,0.18409452682029867
+kidney_function,Patient - Organ Function,Clinical,elderly,adaptive,0.25502370768582283,0.25395132516712615
+kidney_function,Patient - Organ Function,Clinical,elderly,immuno_combo,0.1771868614681362,0.17644227477467658
+kidney_function,Patient - Organ Function,Clinical,elderly,hyperthermia,0.08359390085501696,0.08312361622825452
+kidney_function,Patient - Organ Function,Clinical,compromised,standard,0.07014375155381139,0.06972973134844243
+kidney_function,Patient - Organ Function,Clinical,compromised,continuous,0.11191954852132491,0.1112449309841733
+kidney_function,Patient - Organ Function,Clinical,compromised,adaptive,0.38983685421100256,0.38827478891836664
+kidney_function,Patient - Organ Function,Clinical,compromised,immuno_combo,0.1045558252829696,0.10406545583685811
+kidney_function,Patient - Organ Function,Clinical,compromised,hyperthermia,0.07422570838129824,0.07376995041023367
+immune_status,Patient - Immune,Clinical,average,standard,0.0744510415792219,0.07399086779607658
+immune_status,Patient - Immune,Clinical,average,continuous,0.21896836162062822,0.21762656359897709
+immune_status,Patient - Immune,Clinical,average,adaptive,0.0912919972708477,0.09090998103513735
+immune_status,Patient - Immune,Clinical,average,immuno_combo,0.0399896758004242,0.03981849935468411
+immune_status,Patient - Immune,Clinical,average,hyperthermia,0.044165957053477124,0.04391499452436402
+immune_status,Patient - Immune,Clinical,young,standard,0.1776769435906682,0.1768042617783476
+immune_status,Patient - Immune,Clinical,young,continuous,0.2044666212175308,0.2032187164935989
+immune_status,Patient - Immune,Clinical,young,adaptive,0.29693436107662763,0.29574936324119294
+immune_status,Patient - Immune,Clinical,young,immuno_combo,0.07637729892774694,0.07605201714994543
+immune_status,Patient - Immune,Clinical,young,hyperthermia,0.13588177857469716,0.1351818820088126
+immune_status,Patient - Immune,Clinical,elderly,standard,0.09905148612790013,0.09845952035510264
+immune_status,Patient - Immune,Clinical,elderly,continuous,0.09674071682963956,0.09616593578238852
+immune_status,Patient - Immune,Clinical,elderly,adaptive,0.09595305551414625,0.09554270112615297
+immune_status,Patient - Immune,Clinical,elderly,immuno_combo,0.04149431081424932,0.04132154477943432
+immune_status,Patient - Immune,Clinical,elderly,hyperthermia,0.06140748216718555,0.06107414012218435
+immune_status,Patient - Immune,Clinical,compromised,standard,0.08883965244501006,0.0883105043954713
+immune_status,Patient - Immune,Clinical,compromised,continuous,0.15169241218499785,0.15078031939518327
+immune_status,Patient - Immune,Clinical,compromised,adaptive,0.07470605147828216,0.07439902767420427
+immune_status,Patient - Immune,Clinical,compromised,immuno_combo,0.0807368103330252,0.08035410001287069
+immune_status,Patient - Immune,Clinical,compromised,hyperthermia,0.17367488886283564,0.17262611022617652
